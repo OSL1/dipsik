@@ -1,0 +1,1107 @@
+09:53:12.239 FACE_ 209387          recognitionService.recognizeFace
+09:53:12.240 FACE_ 209387          PHASE 4 recognition voting
+09:53:12.240 FACE_ 209387          TrackID 1: found: гирл, score = 0.7327142, SLR = 0.7327142/ no 2nd → гирл (69%) ✓ (votes: 15)
+09:53:12.240 DRAW_ 209387          setInterpolationTarget: From [388.60822,225.60323] to [387.82574,198.42226]
+09:53:12.242 FACE_ 209387          cropFaceFromBitmap
+09:53:12.316 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:12.319 FACE_ 209348       ▶ analyze
+09:53:12.363 FACE_ 209387          recognitionService.recognizeFace
+09:53:12.364 FACE_ 209387          PHASE 4 recognition voting
+09:53:12.364 FACE_ 209348       ◀ analyze
+09:53:12.364 FACE_ 209387          TrackID 4: found: гирл, score = 0.62503004, SLR = 0.62503004/ no 2nd → гирл (62%) ? (votes: 1)
+09:53:12.365 DRAW_ 209387          setInterpolationTarget: From [179.0,139.0] to [179.0,139.0]
+09:53:12.366 FACE_ 209387          cropFaceFromBitmap
+09:53:12.421 FACE_ 2            ▶ matchFaces
+09:53:12.422 FACE_ 2               PRE-MATCH Track 1 at [387.8,198.4] MLKitID=14
+09:53:12.422 FACE_ 2               PRE-MATCH Track 4 at [179.0,139.0] MLKitID=8
+09:53:12.422 FACE_ 2               PRE-MATCH Track 5 at [190.0,140.5] MLKitID=9
+09:53:12.422 FACE_ 2               PRE-MATCH Track 6 at [208.5,140.5] MLKitID=11
+09:53:12.423 FACE_ 2               PRE-MATCH Track 7 at [364.5,83.5] MLKitID=12
+09:53:12.423 FACE_ 2               PRE-MATCH Track 8 at [426.0,72.0] MLKitID=13
+09:53:12.423 FACE_ 2               PRE-MATCH Track 9 at [431.5,117.5] MLKitID=15
+09:53:12.423 FACE_ 2               PRE-MATCH Track 10 at [199.0,141.5] MLKitID=16
+09:53:12.424 FACE_ 2               PRE-MATCH Track 11 at [162.5,154.0] MLKitID=17
+09:53:12.424 FACE_ 2            ◀ matchFaces: no new faces
+09:53:12.426 FACE_ 2            PHASE3: 0 raw → 9 stabilized | IDs: T1[388,198] T4[179,139] T5[190,141] T6[209,141] T7[365,84] T8[426,72] T9[432,118] T10[199,142] T11[163,154] 
+09:53:12.442 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:12.490 FACE_ 209387          recognitionService.recognizeFace
+09:53:12.490 FACE_ 209387          PHASE 4 recognition voting
+09:53:12.490 FACE_ 209387          TrackID 5: found: гирл, score = 0.6942971, SLR = 0.6942971/ no 2nd → гирл (69%) ? (votes: 1)
+09:53:12.491 DRAW_ 209387          setInterpolationTarget: From [190.0,140.5] to [190.0,140.5]
+09:53:12.492 FACE_ 209387          cropFaceFromBitmap
+09:53:12.519 FACE_ 209348       ▶ analyze
+09:53:12.566 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:12.569 FACE_ 209348       ◀ analyze
+09:53:12.614 FACE_ 209387          recognitionService.recognizeFace
+09:53:12.614 FACE_ 209387          PHASE 4 recognition voting
+09:53:12.615 FACE_ 209387          TrackID 6: found: гирл, score = 0.56809425, SLR = 0.56809425/ no 2nd → гирл (56%) ? (votes: 1)
+09:53:12.615 DRAW_ 209387          setInterpolationTarget: From [208.5,140.5] to [208.5,140.5]
+09:53:12.616 FACE_ 209387          cropFaceFromBitmap
+09:53:12.626 FACE_ 2            ▶ matchFaces
+09:53:12.626 FACE_ 2               PRE-MATCH Track 1 at [387.8,198.4] MLKitID=14
+09:53:12.626 FACE_ 2               PRE-MATCH Track 4 at [179.0,139.0] MLKitID=8
+09:53:12.626 FACE_ 2               PRE-MATCH Track 5 at [190.0,140.5] MLKitID=9
+09:53:12.627 FACE_ 2               PRE-MATCH Track 6 at [208.5,140.5] MLKitID=11
+09:53:12.627 FACE_ 2               PRE-MATCH Track 7 at [364.5,83.5] MLKitID=12
+09:53:12.627 FACE_ 2               PRE-MATCH Track 8 at [426.0,72.0] MLKitID=13
+09:53:12.627 FACE_ 2               PRE-MATCH Track 9 at [431.5,117.5] MLKitID=15
+09:53:12.627 FACE_ 2               PRE-MATCH Track 10 at [199.0,141.5] MLKitID=16
+09:53:12.628 FACE_ 2               PRE-MATCH Track 11 at [162.5,154.0] MLKitID=17
+09:53:12.628 FACE_ 2            ◀ matchFaces: no new faces
+09:53:12.630 FACE_ 2            PHASE3: 0 raw → 9 stabilized | IDs: T1[388,198] T4[179,139] T5[190,141] T6[209,141] T7[365,84] T8[426,72] T9[432,118] T10[199,142] T11[163,154] 
+09:53:12.691 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:12.737 FACE_ 209387          recognitionService.recognizeFace
+09:53:12.737 FACE_ 209387          PHASE 4 recognition voting
+09:53:12.737 FACE_ 209387          TrackID 7: found: гирл, score = 0.82564163, SLR = 0.82564163/ no 2nd → гирл (82%) ? (votes: 1)
+09:53:12.740 DRAW_ 209387          setInterpolationTarget: From [364.5,83.5] to [364.5,83.5]
+09:53:12.740 FACE_ 209387          cropFaceFromBitmap
+09:53:12.747 FACE_ 209348       ▶ analyze
+09:53:12.793 FACE_ 209348       ◀ analyze
+09:53:12.816 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:12.882 FACE_ 209387          recognitionService.recognizeFace
+09:53:12.883 FACE_ 209387          PHASE 4 recognition voting
+09:53:12.883 FACE_ 209387          TrackID 8: found: гирл, score = 0.7904447, SLR = 0.7904447/ no 2nd → гирл (79%) ? (votes: 1)
+09:53:12.884 DRAW_ 209387          setInterpolationTarget: From [426.0,72.0] to [426.0,72.0]
+09:53:12.885 FACE_ 209387          cropFaceFromBitmap
+09:53:12.961 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:13.021 FACE_ 2            ▶ matchFaces
+09:53:13.022 FACE_ 209387          recognitionService.recognizeFace
+09:53:13.022 FACE_ 209387          PHASE 4 recognition voting
+09:53:13.022 FACE_ 2               PRE-MATCH Track 1 at [387.8,198.4] MLKitID=14
+09:53:13.022 FACE_ 209387          TrackID 9: found: гирл, score = 0.7334446, SLR = 0.0052391887/ 2nd: гирл, score = 0.7282054 → гирл (73%) ? (votes: 1)
+09:53:13.022 FACE_ 2               PRE-MATCH Track 4 at [179.0,139.0] MLKitID=8
+09:53:13.023 FACE_ 2               PRE-MATCH Track 5 at [190.0,140.5] MLKitID=9
+09:53:13.023 DRAW_ 209387          setInterpolationTarget: From [431.5,117.5] to [431.5,117.5]
+09:53:13.023 FACE_ 2               PRE-MATCH Track 6 at [208.5,140.5] MLKitID=11
+09:53:13.024 FACE_ 209387          cropFaceFromBitmap
+09:53:13.024 FACE_ 2               PRE-MATCH Track 7 at [364.5,83.5] MLKitID=12
+09:53:13.024 FACE_ 2               PRE-MATCH Track 8 at [426.0,72.0] MLKitID=13
+09:53:13.024 FACE_ 2               PRE-MATCH Track 9 at [431.5,117.5] MLKitID=15
+09:53:13.025 FACE_ 2               PRE-MATCH Track 10 at [199.0,141.5] MLKitID=16
+09:53:13.025 FACE_ 2               PRE-MATCH Track 11 at [162.5,154.0] MLKitID=17
+09:53:13.025 FACE_ 2               PRE-MATCH NewFace 0 at [145.5,13.0] MLKitID=18
+09:53:13.025 FACE_ 2               PRE-MATCH NewFace 1 at [182.5,5.0] MLKitID=19
+09:53:13.025 FACE_ 2               PRE-MATCH NewFace 2 at [338.5,21.5] MLKitID=20
+09:53:13.025 FACE_ 2               PRE-MATCH NewFace 3 at [182.0,8.5] MLKitID=21
+09:53:13.026 FACE_ 2               PRE-MATCH NewFace 4 at [137.5,14.0] MLKitID=22
+09:53:13.030 FACE_ 2               MATCH Track 1 → NewFace 2 distance=183.7 (TrackMLKit=14, FaceMLKit=20)
+09:53:13.031 FACE_ 2               MATCH Track 4 → NewFace 0 distance=130.4 (TrackMLKit=8, FaceMLKit=18)
+09:53:13.031 FACE_ 2               MATCH Track 5 → NewFace 3 distance=132.2 (TrackMLKit=9, FaceMLKit=21)
+09:53:13.031 FACE_ 2            ◀ matchFaces (5 ms
+09:53:13.033 FACE_ 2            PHASE3: 5 raw → 5 stabilized | IDs: T1[373,145] T4[169,101] T5[188,101] T12[183,5] T13[138,14] 
+09:53:13.037 FACE_ 209348       ▶ analyze
+09:53:13.077 FACE_ 209348       ◀ analyze
+09:53:13.099 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:13.134 FACE_ 2            ▶ matchFaces
+09:53:13.135 FACE_ 2               PRE-MATCH Track 1 at [373.0,145.3] MLKitID=20
+09:53:13.136 FACE_ 2               PRE-MATCH Track 4 at [168.9,101.2] MLKitID=18
+09:53:13.137 FACE_ 2               PRE-MATCH Track 5 at [187.6,100.9] MLKitID=21
+09:53:13.137 FACE_ 2               PRE-MATCH Track 12 at [182.5,5.0] MLKitID=19
+09:53:13.138 FACE_ 2               PRE-MATCH Track 13 at [137.5,14.0] MLKitID=22
+09:53:13.138 FACE_ 2            ◀ matchFaces: no new faces
+09:53:13.140 FACE_ 2            PHASE3: 0 raw → 5 stabilized | IDs: T1[373,145] T4[169,101] T5[188,101] T12[183,5] T13[138,14] 
+09:53:13.148 FACE_ 209387          recognitionService.recognizeFace
+09:53:13.149 FACE_ 209387          PHASE 4 recognition voting
+09:53:13.149 FACE_ 209387          TrackID 10: found: гирл, score = 0.5926953, SLR = 0.5926953/ no 2nd → гирл (59%) ? (votes: 1)
+09:53:13.150 DRAW_ 209387          setInterpolationTarget: From [199.0,141.5] to [199.0,141.5]
+09:53:13.151 FACE_ 209387          cropFaceFromBitmap
+09:53:13.226 FACE_ 209387          faceRecognizer.getFaceEmbedding
+09:53:13.258 FACE_ 209387          recognitionService.recognizeFace
+09:53:13.259 FACE_ 209387          PHASE 4 recognition voting
+09:53:13.259 FACE_ 209387          TrackID 11: not found → Unknown (0%) ? (votes: 1)
+09:53:13.259 DRAW_ 209387          setInterpolationTarget: From [162.5,154.0] to [162.5,154.0]
+09:53:13.260 FACE_ 209387       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:13.277 FACE_ 209348       ▶ analyze
+09:53:13.346 FACE_ 209348       ◀ analyze
+09:53:13.420 FACE_ 2            ▶ matchFaces
+09:53:13.420 FACE_ 2               PRE-MATCH Track 1 at [373.0,145.3] MLKitID=20
+09:53:13.420 FACE_ 2               PRE-MATCH Track 4 at [168.9,101.2] MLKitID=18
+09:53:13.421 FACE_ 2               PRE-MATCH Track 5 at [187.6,100.9] MLKitID=21
+09:53:13.421 FACE_ 2               PRE-MATCH Track 12 at [182.5,5.0] MLKitID=19
+09:53:13.421 FACE_ 2               PRE-MATCH Track 13 at [137.5,14.0] MLKitID=22
+09:53:13.421 FACE_ 2            ◀ matchFaces: no new faces
+09:53:13.423 FACE_ 2            PHASE3: 0 raw → 5 stabilized | IDs: T1[373,145] T4[169,101] T5[188,101] T12[183,5] T13[138,14] 
+09:53:13.425 FACE_ 209388       ▶ onFacesUpdatedWithStabilization Processing 5 faces...
+09:53:13.427 FACE_ 209388          cropFaceFromBitmap
+09:53:13.506 FACE_ 209348       ▶ analyze
+09:53:13.516 FACE_ 209388          faceRecognizer.getFaceEmbedding
+09:53:13.569 FACE_ 209348       ◀ analyze
+09:53:13.590 FACE_ 209388          recognitionService.recognizeFace
+09:53:13.590 FACE_ 209388          PHASE 4 recognition voting
+09:53:13.590 FACE_ 209388          TrackID 1: found: гирл, score = 0.6774678, SLR = 0.6774678/ no 2nd → гирл (69%) ✓ (votes: 16)
+09:53:13.591 DRAW_ 209388          setInterpolationTarget: From [387.82574,198.42226] to [373.028,145.34558]
+09:53:13.592 FACE_ 209388          cropFaceFromBitmap
+09:53:13.638 FACE_ 2            ▶ matchFaces
+09:53:13.639 FACE_ 2               PRE-MATCH Track 1 at [373.0,145.3] MLKitID=20
+09:53:13.639 FACE_ 2               PRE-MATCH Track 4 at [168.9,101.2] MLKitID=18
+09:53:13.640 FACE_ 2               PRE-MATCH Track 5 at [187.6,100.9] MLKitID=21
+09:53:13.640 FACE_ 2               PRE-MATCH Track 12 at [182.5,5.0] MLKitID=19
+09:53:13.640 FACE_ 2               PRE-MATCH Track 13 at [137.5,14.0] MLKitID=22
+09:53:13.640 FACE_ 2            ◀ matchFaces: no new faces
+09:53:13.642 FACE_ 2            PHASE3: 0 raw → 5 stabilized | IDs: T1[373,145] T4[169,101] T5[188,101] T12[183,5] T13[138,14] 
+09:53:13.670 FACE_ 209388          faceRecognizer.getFaceEmbedding
+09:53:13.706 FACE_ 209348       ▶ analyze
+09:53:13.716 FACE_ 209388          recognitionService.recognizeFace
+09:53:13.717 FACE_ 209388          PHASE 4 recognition voting
+09:53:13.717 FACE_ 209388          TrackID 4: found: гирл, score = 0.55730104, SLR = 0.55730104/ no 2nd → гирл (55%) ? (votes: 2)
+09:53:13.717 DRAW_ 209388          setInterpolationTarget: From [179.0,139.0] to [168.95,101.2]
+09:53:13.718 FACE_ 209388          cropFaceFromBitmap
+09:53:13.757 FACE_ 209348       ◀ analyze
+09:53:13.797 FACE_ 209388          faceRecognizer.getFaceEmbedding
+09:53:13.844 FACE_ 209388          recognitionService.recognizeFace
+09:53:13.848 FACE_ 209388          PHASE 4 recognition voting
+09:53:13.848 FACE_ 209388          TrackID 5: found: гирл, score = 0.5892242, SLR = 0.5892242/ no 2nd → гирл (58%) ? (votes: 2)
+09:53:13.848 DRAW_ 209388          setInterpolationTarget: From [190.0,140.5] to [187.6,100.899994]
+09:53:13.849 FACE_ 209388          cropFaceFromBitmap
+09:53:13.891 FACE_ 2            ▶ matchFaces
+09:53:13.892 FACE_ 2               PRE-MATCH Track 1 at [373.0,145.3] MLKitID=20
+09:53:13.893 FACE_ 2               PRE-MATCH Track 4 at [168.9,101.2] MLKitID=18
+09:53:13.894 FACE_ 2               PRE-MATCH Track 5 at [187.6,100.9] MLKitID=21
+09:53:13.895 FACE_ 2               PRE-MATCH Track 12 at [182.5,5.0] MLKitID=19
+09:53:13.895 FACE_ 2               PRE-MATCH Track 13 at [137.5,14.0] MLKitID=22
+09:53:13.896 FACE_ 2               PRE-MATCH NewFace 0 at [154.0,17.5] MLKitID=23
+09:53:13.897 FACE_ 2               PRE-MATCH NewFace 1 at [316.5,11.0] MLKitID=24
+09:53:13.900 FACE_ 2               MATCH Track 1 → NewFace 1 distance=145.8 (TrackMLKit=20, FaceMLKit=24)
+09:53:13.901 FACE_ 2               MATCH Track 4 → NewFace 0 distance=85.0 (TrackMLKit=18, FaceMLKit=23)
+09:53:13.901 FACE_ 2            ◀ matchFaces (4 ms
+09:53:13.905 FACE_ 2            PHASE3: 2 raw → 5 stabilized | IDs: T1[356,105] T4[164,76] T5[188,101] T12[183,5] T13[138,14] 
+09:53:13.907 FACE_ 209348       ▶ analyze
+09:53:13.926 FACE_ 209388          faceRecognizer.getFaceEmbedding
+09:53:13.969 FACE_ 209348       ◀ analyze
+09:53:13.976 FACE_ 209388          recognitionService.recognizeFace
+09:53:13.976 FACE_ 209388          PHASE 4 recognition voting
+09:53:13.977 FACE_ 209388          TrackID 12: found: гирл, score = 0.6958802, SLR = 0.6958802/ no 2nd → гирл (69%) ? (votes: 1)
+09:53:13.977 DRAW_ 209388          setInterpolationTarget: From [182.5,5.0] to [182.5,5.0]
+09:53:13.978 FACE_ 209388          cropFaceFromBitmap
+09:53:14.053 FACE_ 2            ▶ matchFaces
+09:53:14.054 FACE_ 2               PRE-MATCH Track 1 at [356.1,105.0] MLKitID=24
+09:53:14.054 FACE_ 2               PRE-MATCH Track 4 at [164.5,76.1] MLKitID=23
+09:53:14.055 FACE_ 2               PRE-MATCH Track 5 at [187.6,100.9] MLKitID=21
+09:53:14.055 FACE_ 2               PRE-MATCH Track 12 at [182.5,5.0] MLKitID=19
+09:53:14.055 FACE_ 2               PRE-MATCH Track 13 at [137.5,14.0] MLKitID=22
+09:53:14.055 FACE_ 2            ◀ matchFaces: no new faces
+09:53:14.056 FACE_ 2            PHASE3: 0 raw → 2 stabilized | IDs: T1[356,105] T4[164,76] 
+09:53:14.062 FACE_ 209388          faceRecognizer.getFaceEmbedding
+09:53:14.110 FACE_ 209388          recognitionService.recognizeFace
+09:53:14.110 FACE_ 209388          PHASE 4 recognition voting
+09:53:14.111 FACE_ 209388          TrackID 13: not found → Unknown (0%) ? (votes: 1)
+09:53:14.111 DRAW_ 209388          setInterpolationTarget: From [137.5,14.0] to [137.5,14.0]
+09:53:14.112 FACE_ 209388       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:14.120 FACE_ 2            Removing track 6 (not seen this frame)
+09:53:14.120 FACE_ 2            Removing track 7 (not seen this frame)
+09:53:14.120 FACE_ 2            Removing track 8 (not seen this frame)
+09:53:14.120 FACE_ 2            Removing track 9 (not seen this frame)
+09:53:14.120 FACE_ 2            Removing track 10 (not seen this frame)
+09:53:14.120 FACE_ 2            Removing track 11 (not seen this frame)
+09:53:14.144 FACE_ 209348       ▶ analyze
+09:53:14.202 FACE_ 209348       ◀ analyze
+09:53:14.236 FACE_ 2            ▶ matchFaces
+09:53:14.237 FACE_ 2               PRE-MATCH Track 1 at [356.1,105.0] MLKitID=24
+09:53:14.237 FACE_ 2               PRE-MATCH Track 4 at [164.5,76.1] MLKitID=23
+09:53:14.237 FACE_ 2            ◀ matchFaces: no new faces
+09:53:14.238 FACE_ 2            PHASE3: 0 raw → 2 stabilized | IDs: T1[356,105] T4[164,76] 
+09:53:14.241 FACE_ 209389       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:14.243 FACE_ 209389          cropFaceFromBitmap
+09:53:14.342 FACE_ 209389          faceRecognizer.getFaceEmbedding
+09:53:14.371 FACE_ 209348       ▶ analyze
+09:53:14.388 FACE_ 209389          recognitionService.recognizeFace
+09:53:14.389 FACE_ 209389          PHASE 4 recognition voting
+09:53:14.389 FACE_ 209389          TrackID 1: found: гирл, score = 0.76479703, SLR = 0.76479703/ no 2nd → гирл (69%) ✓ (votes: 17)
+09:53:14.390 DRAW_ 209389          setInterpolationTarget: From [373.028,145.34558] to [356.06964,105.0419]
+09:53:14.391 FACE_ 209389          cropFaceFromBitmap
+09:53:14.444 FACE_ 209348       ◀ analyze
+09:53:14.474 FACE_ 209389          faceRecognizer.getFaceEmbedding
+09:53:14.504 FACE_ 2            ▶ matchFaces
+09:53:14.505 FACE_ 2               PRE-MATCH Track 1 at [356.1,105.0] MLKitID=24
+09:53:14.506 FACE_ 2               PRE-MATCH Track 4 at [164.5,76.1] MLKitID=23
+09:53:14.506 FACE_ 2            ◀ matchFaces: no new faces
+09:53:14.508 FACE_ 2            PHASE3: 0 raw → 2 stabilized | IDs: T1[356,105] T4[164,76] 
+09:53:14.511 FACE_ 209389          recognitionService.recognizeFace
+09:53:14.511 FACE_ 209389          PHASE 4 recognition voting
+09:53:14.511 FACE_ 209389          TrackID 4: not found → Unknown (0%) ? (votes: 2)
+09:53:14.511 DRAW_ 209389          setInterpolationTarget: From [168.95,101.2] to [164.465,76.09]
+09:53:14.512 FACE_ 209389       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:14.520 FACE_ 2            Removing track 5 (not seen this frame)
+09:53:14.520 FACE_ 2            Removing track 12 (not seen this frame)
+09:53:14.520 FACE_ 2            Removing track 13 (not seen this frame)
+09:53:14.588 FACE_ 209348       ▶ analyze
+09:53:14.639 FACE_ 209348       ◀ analyze
+09:53:14.719 FACE_ 2            ▶ matchFaces
+09:53:14.720 FACE_ 2               PRE-MATCH Track 1 at [356.1,105.0] MLKitID=24
+09:53:14.721 FACE_ 2               PRE-MATCH Track 4 at [164.5,76.1] MLKitID=23
+09:53:14.721 FACE_ 2               PRE-MATCH NewFace 0 at [171.0,16.5] MLKitID=25
+09:53:14.722 FACE_ 2               MATCH Track 1 → NewFace 0 distance=205.2 (TrackMLKit=24, FaceMLKit=25)
+09:53:14.722 FACE_ 2            ◀ matchFaces (1 ms
+09:53:14.725 FACE_ 2            PHASE3: 1 raw → 2 stabilized | IDs: T1[301,78] T4[164,76] 
+09:53:14.729 FACE_ 209390       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:14.731 FACE_ 209390          cropFaceFromBitmap
+09:53:14.788 FACE_ 209348       ▶ analyze
+09:53:14.820 FACE_ 209390          faceRecognizer.getFaceEmbedding
+09:53:14.829 FACE_ 209348       ◀ analyze
+09:53:14.869 FACE_ 209390          recognitionService.recognizeFace
+09:53:14.869 FACE_ 209390          PHASE 4 recognition voting
+09:53:14.870 FACE_ 209390          TrackID 1: found: гирл, score = 0.6398275, SLR = 0.6398275/ no 2nd → гирл (69%) ✓ (votes: 18)
+09:53:14.870 DRAW_ 209390          setInterpolationTarget: From [356.06964,105.0419] to [300.5487,78.47933]
+09:53:14.871 FACE_ 209390          cropFaceFromBitmap
+09:53:14.887 FACE_ 2            ▶ matchFaces
+09:53:14.888 FACE_ 2               PRE-MATCH Track 1 at [300.5,78.5] MLKitID=25
+09:53:14.889 FACE_ 2               PRE-MATCH Track 4 at [164.5,76.1] MLKitID=23
+09:53:14.889 FACE_ 2            ◀ matchFaces: no new faces
+09:53:14.891 FACE_ 2            PHASE3: 0 raw → 1 stabilized | IDs: T1[301,78] 
+09:53:14.948 FACE_ 209390          faceRecognizer.getFaceEmbedding
+09:53:14.990 FACE_ 209348       ▶ analyze
+09:53:14.994 FACE_ 209390          recognitionService.recognizeFace
+09:53:14.995 FACE_ 209390          PHASE 4 recognition voting
+09:53:14.995 FACE_ 209390          TrackID 4: found: гирл, score = 0.637793, SLR = 0.637793/ no 2nd → гирл (60%) ✓ (votes: 3)
+09:53:14.995 DRAW_ 209390          setInterpolationTarget: From [164.465,76.09] to [164.465,76.09]
+09:53:14.996 FACE_ 209390       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:15.076 FACE_ 209348       ◀ analyze
+09:53:15.205 FACE_ 2            ▶ matchFaces
+09:53:15.205 FACE_ 2               PRE-MATCH Track 1 at [300.5,78.5] MLKitID=25
+09:53:15.206 FACE_ 2               PRE-MATCH NewFace 0 at [206.5,137.5] MLKitID=26
+09:53:15.206 FACE_ 2               PRE-MATCH NewFace 1 at [295.5,120.5] MLKitID=27
+09:53:15.207 FACE_ 2               MATCH Track 1 → NewFace 1 distance=42.3 (TrackMLKit=25, FaceMLKit=27)
+09:53:15.208 FACE_ 2            ◀ matchFaces (2 ms
+09:53:15.209 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[299,91] T14[207,138] 
+09:53:15.214 FACE_ 209391       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:15.216 FACE_ 209391          cropFaceFromBitmap
+09:53:15.217 FACE_ 209348       ▶ analyze
+09:53:15.252 FACE_ 209348       ◀ analyze
+09:53:15.297 FACE_ 209391          faceRecognizer.getFaceEmbedding
+09:53:15.331 FACE_ 209391          recognitionService.recognizeFace
+09:53:15.331 FACE_ 209391          PHASE 4 recognition voting
+09:53:15.332 FACE_ 209391          TrackID 1: not found → гирл (69%) ✓ (votes: 18)
+09:53:15.332 DRAW_ 209391          setInterpolationTarget: From [300.5487,78.47933] to [299.03412,91.08553]
+09:53:15.333 FACE_ 209391          cropFaceFromBitmap
+09:53:15.370 FACE_ 2            ▶ matchFaces
+09:53:15.371 FACE_ 2               PRE-MATCH Track 1 at [299.0,91.1] MLKitID=27
+09:53:15.371 FACE_ 2               PRE-MATCH Track 14 at [206.5,137.5] MLKitID=26
+09:53:15.371 FACE_ 2               PRE-MATCH NewFace 0 at [291.0,120.0] MLKitID=27
+09:53:15.371 FACE_ 2               PRE-MATCH NewFace 1 at [231.5,137.5] MLKitID=28
+09:53:15.372 FACE_ 2               MATCH Track 1 → NewFace 0 distance=30.0 (TrackMLKit=27, FaceMLKit=27)
+09:53:15.372 FACE_ 2               MATCH Track 14 → NewFace 1 distance=25.0 (TrackMLKit=26, FaceMLKit=28)
+09:53:15.372 FACE_ 2            ◀ matchFaces (1 ms
+09:53:15.373 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[297,100] T14[214,138] 
+09:53:15.408 FACE_ 209391          faceRecognizer.getFaceEmbedding
+09:53:15.423 FACE_ 209348       ▶ analyze
+09:53:15.454 FACE_ 209391          recognitionService.recognizeFace
+09:53:15.454 FACE_ 209391          PHASE 4 recognition voting
+09:53:15.454 FACE_ 209391          TrackID 14: found: алекс, score = 0.8282866, SLR = 0.8282866/ no 2nd → алекс (82%) ? (votes: 1)
+09:53:15.455 DRAW_ 209391          setInterpolationTarget: From [206.5,137.5] to [206.5,137.5]
+09:53:15.456 FACE_ 209391       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:15.456 FACE_ 2            Removing track 4 (not seen this frame)
+09:53:15.461 FACE_ 209348       ◀ analyze
+09:53:15.569 FACE_ 2            ▶ matchFaces
+09:53:15.569 FACE_ 2               PRE-MATCH Track 1 at [296.6,99.8] MLKitID=27
+09:53:15.569 FACE_ 2               PRE-MATCH Track 14 at [214.0,137.5] MLKitID=28
+09:53:15.569 FACE_ 2               PRE-MATCH NewFace 0 at [352.5,143.5] MLKitID=29
+09:53:15.569 FACE_ 2               PRE-MATCH NewFace 1 at [260.0,164.0] MLKitID=30
+09:53:15.570 FACE_ 2               MATCH Track 1 → NewFace 0 distance=71.0 (TrackMLKit=27, FaceMLKit=29)
+09:53:15.570 FACE_ 2               MATCH Track 14 → NewFace 1 distance=53.1 (TrackMLKit=28, FaceMLKit=30)
+09:53:15.570 FACE_ 2            ◀ matchFaces (1 ms
+09:53:15.571 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[313,113] T14[228,145] 
+09:53:15.574 FACE_ 209392       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:15.576 FACE_ 209392          cropFaceFromBitmap
+09:53:15.623 FACE_ 209348       ▶ analyze
+09:53:15.658 FACE_ 209392          faceRecognizer.getFaceEmbedding
+09:53:15.685 FACE_ 209348       ◀ analyze
+09:53:15.722 FACE_ 209392          recognitionService.recognizeFace
+09:53:15.723 FACE_ 209392          PHASE 4 recognition voting
+09:53:15.723 FACE_ 209392          TrackID 1: found: гирл, score = 0.6685111, SLR = 0.6685111/ no 2nd → гирл (69%) ✓ (votes: 19)
+09:53:15.724 DRAW_ 209392          setInterpolationTarget: From [299.0471,90.97757] to [313.38672,112.88191]
+09:53:15.725 FACE_ 209392          cropFaceFromBitmap
+09:53:15.773 FACE_ 2            ▶ matchFaces
+09:53:15.774 FACE_ 2               PRE-MATCH Track 1 at [313.4,112.9] MLKitID=29
+09:53:15.774 FACE_ 2               PRE-MATCH Track 14 at [227.8,145.5] MLKitID=30
+09:53:15.774 FACE_ 2               PRE-MATCH NewFace 0 at [363.5,183.5] MLKitID=29
+09:53:15.774 FACE_ 2               MATCH Track 1 → NewFace 0 distance=86.6 (TrackMLKit=29, FaceMLKit=29)
+09:53:15.775 FACE_ 2            ◀ matchFaces (1 ms
+09:53:15.775 FACE_ 2            PHASE3: 1 raw → 2 stabilized | IDs: T1[328,134] T14[228,145] 
+09:53:15.801 FACE_ 209392          faceRecognizer.getFaceEmbedding
+09:53:15.840 FACE_ 209348       ▶ analyze
+09:53:15.847 FACE_ 209392          recognitionService.recognizeFace
+09:53:15.847 FACE_ 209392          PHASE 4 recognition voting
+09:53:15.848 FACE_ 209392          TrackID 14: found: гирл, score = 0.74130934, SLR = 0.059627175/ 2nd: гирл, score = 0.68168217 → гирл (74%) ? (votes: 1)
+09:53:15.848 DRAW_ 209392          setInterpolationTarget: From [206.5,137.5] to [227.79999,145.45001]
+09:53:15.849 FACE_ 209392       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:15.882 FACE_ 209348       ◀ analyze
+09:53:15.958 FACE_ 2            ▶ matchFaces
+09:53:15.958 FACE_ 2               PRE-MATCH Track 1 at [328.4,134.1] MLKitID=29
+09:53:15.959 FACE_ 2               PRE-MATCH Track 14 at [227.8,145.5] MLKitID=30
+09:53:15.959 FACE_ 2               PRE-MATCH NewFace 0 at [396.5,230.0] MLKitID=29
+09:53:15.960 FACE_ 2               MATCH Track 1 → NewFace 0 distance=117.6 (TrackMLKit=29, FaceMLKit=29)
+09:53:15.960 FACE_ 2            ◀ matchFaces (1 ms
+09:53:15.962 FACE_ 2            PHASE3: 1 raw → 2 stabilized | IDs: T1[349,163] T14[228,145] 
+09:53:15.966 FACE_ 209393       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:15.967 FACE_ 209393          cropFaceFromBitmap
+09:53:16.042 FACE_ 209393          faceRecognizer.getFaceEmbedding
+09:53:16.072 FACE_ 209348       ▶ analyze
+09:53:16.087 FACE_ 209393          recognitionService.recognizeFace
+09:53:16.088 FACE_ 209393          PHASE 4 recognition voting
+09:53:16.088 FACE_ 209393          TrackID 1: found: гирл, score = 0.60459995, SLR = 0.60459995/ no 2nd → гирл (69%) ✓ (votes: 20)
+09:53:16.089 DRAW_ 209393          setInterpolationTarget: From [313.00012,112.29143] to [348.84448,162.84714]
+09:53:16.090 FACE_ 209393          cropFaceFromBitmap
+09:53:16.105 FACE_ 209348       ◀ analyze
+09:53:16.190 FACE_ 209393          faceRecognizer.getFaceEmbedding
+09:53:16.245 FACE_ 209393          recognitionService.recognizeFace
+09:53:16.245 FACE_ 209393          PHASE 4 recognition voting
+09:53:16.246 FACE_ 209393          TrackID 14: found: гирл, score = 0.56730694, SLR = 0.56730694/ no 2nd → гирл (56%) ? (votes: 1)
+09:53:16.246 DRAW_ 209393          setInterpolationTarget: From [227.66853,145.40094] to [227.79999,145.45001]
+09:53:16.247 FACE_ 209393       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:16.286 FACE_ 2            ▶ matchFaces
+09:53:16.286 FACE_ 2               PRE-MATCH Track 1 at [348.8,162.8] MLKitID=29
+09:53:16.286 FACE_ 2               PRE-MATCH Track 14 at [227.8,145.5] MLKitID=30
+09:53:16.287 FACE_ 2               PRE-MATCH NewFace 0 at [306.5,276.5] MLKitID=31
+09:53:16.287 FACE_ 2               PRE-MATCH NewFace 1 at [464.5,254.0] MLKitID=32
+09:53:16.287 FACE_ 2               MATCH Track 1 → NewFace 0 distance=121.3 (TrackMLKit=29, FaceMLKit=31)
+09:53:16.287 FACE_ 2            ◀ matchFaces (0 ms
+09:53:16.288 FACE_ 2            PHASE3: 2 raw → 3 stabilized | IDs: T1[336,197] T14[228,145] T15[465,254] 
+09:53:16.291 FACE_ 209394       ▶ onFacesUpdatedWithStabilization Processing 3 faces...
+09:53:16.292 FACE_ 209348       ▶ analyze
+09:53:16.293 FACE_ 209394          cropFaceFromBitmap
+09:53:16.323 FACE_ 209348       ◀ analyze
+09:53:16.389 FACE_ 209394          faceRecognizer.getFaceEmbedding
+09:53:16.433 FACE_ 209394          recognitionService.recognizeFace
+09:53:16.433 FACE_ 209394          PHASE 4 recognition voting
+09:53:16.434 FACE_ 209394          TrackID 1: not found → гирл (69%) ✓ (votes: 20)
+09:53:16.434 DRAW_ 209394          setInterpolationTarget: From [347.02307,160.27817] to [336.14114,196.943]
+09:53:16.435 FACE_ 209394          cropFaceFromBitmap
+09:53:16.441 FACE_ 2            ▶ matchFaces
+09:53:16.442 FACE_ 2               PRE-MATCH Track 1 at [336.1,196.9] MLKitID=31
+09:53:16.442 FACE_ 2               PRE-MATCH Track 14 at [227.8,145.5] MLKitID=30
+09:53:16.442 FACE_ 2               PRE-MATCH Track 15 at [464.5,254.0] MLKitID=32
+09:53:16.443 FACE_ 2               PRE-MATCH NewFace 0 at [310.0,287.0] MLKitID=31
+09:53:16.444 FACE_ 2               MATCH Track 1 → NewFace 0 distance=93.8 (TrackMLKit=31, FaceMLKit=31)
+09:53:16.444 FACE_ 2            ◀ matchFaces (1 ms
+09:53:16.445 FACE_ 2            PHASE3: 1 raw → 3 stabilized | IDs: T1[328,224] T14[228,145] T15[465,254] 
+09:53:16.506 FACE_ 209348       ▶ analyze
+09:53:16.509 FACE_ 209394          faceRecognizer.getFaceEmbedding
+09:53:16.541 FACE_ 209394          recognitionService.recognizeFace
+09:53:16.541 FACE_ 209394          PHASE 4 recognition voting
+09:53:16.541 FACE_ 209394          TrackID 14: not found → Unknown (0%) ? (votes: 1)
+09:53:16.541 DRAW_ 209394          setInterpolationTarget: From [227.7785,145.44199] to [227.79999,145.45001]
+09:53:16.542 FACE_ 209394          cropFaceFromBitmap
+09:53:16.559 FACE_ 209348       ◀ analyze
+09:53:16.630 FACE_ 209394          faceRecognizer.getFaceEmbedding
+09:53:16.672 FACE_ 2            ▶ matchFaces
+09:53:16.672 FACE_ 2               PRE-MATCH Track 1 at [328.3,224.0] MLKitID=31
+09:53:16.673 FACE_ 2               PRE-MATCH Track 14 at [227.8,145.5] MLKitID=30
+09:53:16.673 FACE_ 2               PRE-MATCH Track 15 at [464.5,254.0] MLKitID=32
+09:53:16.673 FACE_ 2               PRE-MATCH NewFace 0 at [263.5,344.5] MLKitID=33
+09:53:16.674 FACE_ 2               PRE-MATCH NewFace 1 at [437.0,329.0] MLKitID=34
+09:53:16.675 FACE_ 2               MATCH Track 1 → NewFace 0 distance=136.9 (TrackMLKit=31, FaceMLKit=33)
+09:53:16.676 FACE_ 2               MATCH Track 15 → NewFace 1 distance=79.9 (TrackMLKit=32, FaceMLKit=34)
+09:53:16.676 FACE_ 2            ◀ matchFaces (2 ms
+09:53:16.678 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[309,260] T15[456,277] 
+09:53:16.685 FACE_ 209394          recognitionService.recognizeFace
+09:53:16.685 FACE_ 209394          PHASE 4 recognition voting
+09:53:16.685 FACE_ 209394          TrackID 15: found: гирл, score = 0.5817432, SLR = 0.5817432/ no 2nd → гирл (58%) ? (votes: 1)
+09:53:16.686 DRAW_ 209394          setInterpolationTarget: From [464.5,254.0] to [464.5,254.0]
+09:53:16.686 FACE_ 209394       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:16.721 FACE_ 209348       ▶ analyze
+09:53:16.784 FACE_ 209348       ◀ analyze
+09:53:16.904 FACE_ 2            ▶ matchFaces
+09:53:16.905 FACE_ 2               PRE-MATCH Track 1 at [308.9,260.1] MLKitID=33
+09:53:16.905 FACE_ 2               PRE-MATCH Track 15 at [456.3,276.5] MLKitID=34
+09:53:16.905 FACE_ 2               PRE-MATCH NewFace 0 at [206.5,364.5] MLKitID=33
+09:53:16.905 FACE_ 2               PRE-MATCH NewFace 1 at [372.0,354.0] MLKitID=34
+09:53:16.907 FACE_ 2               MATCH Track 1 → NewFace 0 distance=146.2 (TrackMLKit=33, FaceMLKit=33)
+09:53:16.907 FACE_ 2               MATCH Track 15 → NewFace 1 distance=114.5 (TrackMLKit=34, FaceMLKit=34)
+09:53:16.907 FACE_ 2            ◀ matchFaces (2 ms
+09:53:16.908 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[278,291] T15[431,300] 
+09:53:16.913 FACE_ 209395       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:16.915 FACE_ 209395          cropFaceFromBitmap
+09:53:16.947 FACE_ 209348       ▶ analyze
+09:53:17.004 FACE_ 209395          faceRecognizer.getFaceEmbedding
+09:53:17.017 FACE_ 209348       ◀ analyze
+09:53:17.038 FACE_ 209395          recognitionService.recognizeFace
+09:53:17.038 FACE_ 209395          PHASE 4 recognition voting
+09:53:17.038 FACE_ 209395          TrackID 1: not found → гирл (69%) ✓ (votes: 20)
+09:53:17.039 DRAW_ 209395          setInterpolationTarget: From [336.14114,196.943] to [278.1514,291.43542]
+09:53:17.040 FACE_ 209395          cropFaceFromBitmap
+09:53:17.115 FACE_ 209395          faceRecognizer.getFaceEmbedding
+09:53:17.121 FACE_ 2            ▶ matchFaces
+09:53:17.121 FACE_ 2               PRE-MATCH Track 1 at [278.2,291.4] MLKitID=33
+09:53:17.122 FACE_ 2               PRE-MATCH Track 15 at [431.0,299.8] MLKitID=34
+09:53:17.122 FACE_ 2               PRE-MATCH NewFace 0 at [215.5,374.0] MLKitID=33
+09:53:17.122 FACE_ 2               PRE-MATCH NewFace 1 at [376.0,359.0] MLKitID=34
+09:53:17.123 FACE_ 2               MATCH Track 1 → NewFace 0 distance=103.6 (TrackMLKit=33, FaceMLKit=33)
+09:53:17.123 FACE_ 2               MATCH Track 15 → NewFace 1 distance=80.8 (TrackMLKit=34, FaceMLKit=34)
+09:53:17.123 FACE_ 2            ◀ matchFaces (1 ms
+09:53:17.125 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[259,316] T15[414,318] 
+09:53:17.158 FACE_ 209348       ▶ analyze
+09:53:17.172 FACE_ 209395          recognitionService.recognizeFace
+09:53:17.173 FACE_ 209395          PHASE 4 recognition voting
+09:53:17.173 FACE_ 209395          TrackID 15: found: мике, score = 0.58859265, SLR = 0.58859265/ no 2nd → мике (58%) ? (votes: 1)
+09:53:17.174 DRAW_ 209395          setInterpolationTarget: From [464.5,254.0] to [430.975,299.75]
+09:53:17.175 FACE_ 209395       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:17.189 FACE_ 2            Removing track 14 (not seen this frame)
+09:53:17.202 FACE_ 209348       ◀ analyze
+09:53:17.303 FACE_ 2            ▶ matchFaces
+09:53:17.304 FACE_ 2               PRE-MATCH Track 1 at [259.4,316.2] MLKitID=33
+09:53:17.304 FACE_ 2               PRE-MATCH Track 15 at [414.5,317.5] MLKitID=34
+09:53:17.304 FACE_ 2               PRE-MATCH NewFace 0 at [234.5,370.0] MLKitID=33
+09:53:17.304 FACE_ 2               PRE-MATCH NewFace 1 at [402.0,358.5] MLKitID=34
+09:53:17.305 FACE_ 2               MATCH Track 1 → NewFace 0 distance=59.3 (TrackMLKit=33, FaceMLKit=33)
+09:53:17.305 FACE_ 2               MATCH Track 15 → NewFace 1 distance=42.8 (TrackMLKit=34, FaceMLKit=34)
+09:53:17.306 FACE_ 2            ◀ matchFaces (2 ms
+09:53:17.307 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[252,332] T15[411,330] 
+09:53:17.312 FACE_ 209396       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:17.314 FACE_ 209396          cropFaceFromBitmap
+09:53:17.360 FACE_ 209348       ▶ analyze
+09:53:17.403 FACE_ 209396          faceRecognizer.getFaceEmbedding
+09:53:17.409 FACE_ 209348       ◀ analyze
+09:53:17.499 FACE_ 209396          recognitionService.recognizeFace
+09:53:17.499 FACE_ 209396          PHASE 4 recognition voting
+09:53:17.499 FACE_ 209396          TrackID 1: found: алекс, score = 0.7928451, SLR = 0.7928451/ no 2nd → алекс (79%) ? (votes: 1)
+09:53:17.500 DRAW_ 209396          setInterpolationTarget: From [278.1514,291.43542] to [251.89919,332.34335]
+09:53:17.501 FACE_ 209396          cropFaceFromBitmap
+09:53:17.506 FACE_ 2            ▶ matchFaces
+09:53:17.507 FACE_ 2               PRE-MATCH Track 1 at [251.9,332.3] MLKitID=33
+09:53:17.507 FACE_ 2               PRE-MATCH Track 15 at [410.7,329.8] MLKitID=34
+09:53:17.507 FACE_ 2               PRE-MATCH NewFace 0 at [230.5,372.5] MLKitID=33
+09:53:17.507 FACE_ 2               PRE-MATCH NewFace 1 at [398.5,365.5] MLKitID=34
+09:53:17.508 FACE_ 2               MATCH Track 1 → NewFace 0 distance=45.5 (TrackMLKit=33, FaceMLKit=33)
+09:53:17.509 FACE_ 2               MATCH Track 15 → NewFace 1 distance=37.7 (TrackMLKit=34, FaceMLKit=34)
+09:53:17.509 FACE_ 2            ◀ matchFaces (2 ms
+09:53:17.510 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[245,344] T15[407,341] 
+09:53:17.584 FACE_ 209396          faceRecognizer.getFaceEmbedding
+09:53:17.591 FACE_ 209348       ▶ analyze
+09:53:17.616 FACE_ 209396          recognitionService.recognizeFace
+09:53:17.617 FACE_ 209396          PHASE 4 recognition voting
+09:53:17.618 FACE_ 209396          TrackID 15: not found → Unknown (0%) ? (votes: 1)
+09:53:17.618 DRAW_ 209396          setInterpolationTarget: From [430.97534,299.74957] to [410.73776,329.8175]
+09:53:17.620 FACE_ 209396       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:17.635 FACE_ 209348       ◀ analyze
+09:53:17.739 FACE_ 2            ▶ matchFaces
+09:53:17.739 FACE_ 2               PRE-MATCH Track 1 at [245.5,344.4] MLKitID=33
+09:53:17.740 FACE_ 2               PRE-MATCH Track 15 at [407.1,340.5] MLKitID=34
+09:53:17.740 FACE_ 2               PRE-MATCH NewFace 0 at [185.5,352.5] MLKitID=35
+09:53:17.740 FACE_ 2               PRE-MATCH NewFace 1 at [345.0,345.0] MLKitID=36
+09:53:17.741 FACE_ 2               MATCH Track 1 → NewFace 0 distance=60.5 (TrackMLKit=33, FaceMLKit=35)
+09:53:17.741 FACE_ 2               MATCH Track 15 → NewFace 1 distance=62.2 (TrackMLKit=34, FaceMLKit=36)
+09:53:17.741 FACE_ 2            ◀ matchFaces (1 ms
+09:53:17.742 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[227,347] T15[388,342] 
+09:53:17.747 FACE_ 209397       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:17.749 FACE_ 209397          cropFaceFromBitmap
+09:53:17.792 FACE_ 209348       ▶ analyze
+09:53:17.856 FACE_ 209397          faceRecognizer.getFaceEmbedding
+09:53:17.866 FACE_ 209348       ◀ analyze
+09:53:17.900 FACE_ 209397          recognitionService.recognizeFace
+09:53:17.900 FACE_ 209397          PHASE 4 recognition voting
+09:53:17.900 FACE_ 209397          TrackID 1: found: алекс, score = 0.849196, SLR = 0.849196/ no 2nd → алекс (84%) ? (votes: 2)
+09:53:17.901 DRAW_ 209397          setInterpolationTarget: From [252.04324,332.1189] to [227.48561,346.82324]
+09:53:17.902 FACE_ 209397          cropFaceFromBitmap
+09:53:17.976 FACE_ 209397          faceRecognizer.getFaceEmbedding
+09:53:18.023 FACE_ 2            ▶ matchFaces
+09:53:18.023 FACE_ 2               PRE-MATCH Track 1 at [227.5,346.8] MLKitID=35
+09:53:18.023 FACE_ 2               PRE-MATCH Track 15 at [388.4,341.9] MLKitID=36
+09:53:18.023 FACE_ 2               PRE-MATCH NewFace 0 at [182.0,357.5] MLKitID=35
+09:53:18.024 FACE_ 2               PRE-MATCH NewFace 1 at [338.5,345.0] MLKitID=36
+09:53:18.024 FACE_ 2               PRE-MATCH NewFace 2 at [475.5,619.5] MLKitID=37
+09:53:18.025 FACE_ 2               MATCH Track 1 → NewFace 0 distance=46.7 (TrackMLKit=35, FaceMLKit=35)
+09:53:18.025 FACE_ 2               MATCH Track 15 → NewFace 1 distance=50.0 (TrackMLKit=36, FaceMLKit=36)
+09:53:18.025 FACE_ 2            ◀ matchFaces (1 ms
+09:53:18.026 FACE_ 2            PHASE3: 3 raw → 3 stabilized | IDs: T16[476,620] T1[214,350] T15[373,343] 
+09:53:18.029 FACE_ 209397          recognitionService.recognizeFace
+09:53:18.029 FACE_ 209397          PHASE 4 recognition voting
+09:53:18.029 FACE_ 209348       ▶ analyze
+09:53:18.029 FACE_ 209397          TrackID 15: found: мике, score = 0.55736315, SLR = 0.55736315/ no 2nd → мике (55%) ? (votes: 2)
+09:53:18.030 DRAW_ 209397          setInterpolationTarget: From [410.79047,329.7392] to [388.44647,341.86557]
+09:53:18.030 FACE_ 209397       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:18.060 FACE_ 209348       ◀ analyze
+09:53:18.172 FACE_ 2            ▶ matchFaces
+09:53:18.172 FACE_ 2               PRE-MATCH Track 16 at [475.5,619.5] MLKitID=37
+09:53:18.173 FACE_ 2               PRE-MATCH Track 1 at [213.8,350.0] MLKitID=35
+09:53:18.173 FACE_ 2               PRE-MATCH Track 15 at [373.5,342.8] MLKitID=36
+09:53:18.173 FACE_ 2               PRE-MATCH NewFace 0 at [184.0,357.0] MLKitID=35
+09:53:18.173 FACE_ 2               PRE-MATCH NewFace 1 at [342.0,345.5] MLKitID=36
+09:53:18.173 FACE_ 2               PRE-MATCH NewFace 2 at [475.5,617.0] MLKitID=37
+09:53:18.174 FACE_ 2               MATCH Track 16 → NewFace 2 distance=2.5 (TrackMLKit=37, FaceMLKit=37)
+09:53:18.174 FACE_ 2               MATCH Track 1 → NewFace 0 distance=30.6 (TrackMLKit=35, FaceMLKit=35)
+09:53:18.175 FACE_ 2               MATCH Track 15 → NewFace 1 distance=31.6 (TrackMLKit=36, FaceMLKit=36)
+09:53:18.175 FACE_ 2            ◀ matchFaces (2 ms
+09:53:18.176 FACE_ 2            PHASE3: 3 raw → 3 stabilized | IDs: T16[476,619] T1[205,352] T15[364,344] 
+09:53:18.181 FACE_ 209398       ▶ onFacesUpdatedWithStabilization Processing 3 faces...
+09:53:18.182 FACE_ 209398          cropFaceFromBitmap
+09:53:18.257 FACE_ 209398          faceRecognizer.getFaceEmbedding
+09:53:18.257 FACE_ 209348       ▶ analyze
+09:53:18.304 FACE_ 209398          recognitionService.recognizeFace
+09:53:18.304 FACE_ 209398          PHASE 4 recognition voting
+09:53:18.304 FACE_ 209398          TrackID 16: found: гирл, score = 0.6737899, SLR = 0.6737899/ no 2nd → гирл (67%) ? (votes: 1)
+09:53:18.305 DRAW_ 209398          setInterpolationTarget: From [475.5,618.75] to [475.5,618.75]
+09:53:18.306 FACE_ 209398          cropFaceFromBitmap
+09:53:18.342 FACE_ 209348       ◀ analyze
+09:53:18.382 FACE_ 209398          faceRecognizer.getFaceEmbedding
+09:53:18.424 FACE_ 209398          recognitionService.recognizeFace
+09:53:18.424 FACE_ 209398          PHASE 4 recognition voting
+09:53:18.424 FACE_ 209398          TrackID 1: found: алекс, score = 0.826741, SLR = 0.826741/ no 2nd → алекс (82%) ✓ (votes: 3)
+09:53:18.425 DRAW_ 209398          setInterpolationTarget: From [227.48561,346.82324] to [204.88794,352.11838]
+09:53:18.426 FACE_ 209398          cropFaceFromBitmap
+09:53:18.442 FACE_ 2            ▶ matchFaces
+09:53:18.442 FACE_ 2               PRE-MATCH Track 16 at [475.5,618.8] MLKitID=37
+09:53:18.442 FACE_ 2               PRE-MATCH Track 1 at [204.9,352.1] MLKitID=35
+09:53:18.442 FACE_ 2               PRE-MATCH Track 15 at [364.0,343.6] MLKitID=36
+09:53:18.443 FACE_ 2               PRE-MATCH NewFace 0 at [167.0,334.0] MLKitID=35
+09:53:18.443 FACE_ 2               PRE-MATCH NewFace 1 at [324.0,324.0] MLKitID=36
+09:53:18.444 FACE_ 2               MATCH Track 1 → NewFace 0 distance=42.0 (TrackMLKit=35, FaceMLKit=35)
+09:53:18.444 FACE_ 2               MATCH Track 15 → NewFace 1 distance=44.6 (TrackMLKit=36, FaceMLKit=36)
+09:53:18.444 FACE_ 2            ◀ matchFaces (1 ms
+09:53:18.445 FACE_ 2            PHASE3: 2 raw → 3 stabilized | IDs: T16[476,619] T1[194,347] T15[352,338] 
+09:53:18.458 FACE_ 209348       ▶ analyze
+09:53:18.490 FACE_ 209348       ◀ analyze
+09:53:18.505 FACE_ 209398          faceRecognizer.getFaceEmbedding
+09:53:18.537 FACE_ 209398          recognitionService.recognizeFace
+09:53:18.537 FACE_ 209398          PHASE 4 recognition voting
+09:53:18.537 FACE_ 209398          TrackID 15: not found → Unknown (0%) ? (votes: 2)
+09:53:18.537 DRAW_ 209398          setInterpolationTarget: From [388.44647,341.86557] to [364.02374,343.61414]
+09:53:18.538 FACE_ 209398       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:18.596 FACE_ 2            ▶ matchFaces
+09:53:18.596 FACE_ 2               PRE-MATCH Track 16 at [475.5,618.8] MLKitID=37
+09:53:18.596 FACE_ 2               PRE-MATCH Track 1 at [193.5,346.7] MLKitID=35
+09:53:18.596 FACE_ 2               PRE-MATCH Track 15 at [352.0,337.7] MLKitID=36
+09:53:18.596 FACE_ 2               PRE-MATCH NewFace 0 at [160.5,338.0] MLKitID=35
+09:53:18.596 FACE_ 2               PRE-MATCH NewFace 1 at [313.5,322.0] MLKitID=36
+09:53:18.596 FACE_ 2               PRE-MATCH NewFace 2 at [420.5,565.0] MLKitID=38
+09:53:18.597 FACE_ 2               MATCH Track 16 → NewFace 2 distance=76.9 (TrackMLKit=37, FaceMLKit=38)
+09:53:18.597 FACE_ 2               MATCH Track 1 → NewFace 0 distance=34.1 (TrackMLKit=35, FaceMLKit=35)
+09:53:18.597 FACE_ 2               MATCH Track 15 → NewFace 1 distance=41.6 (TrackMLKit=36, FaceMLKit=36)
+09:53:18.597 FACE_ 2            ◀ matchFaces (1 ms
+09:53:18.598 FACE_ 2            PHASE3: 3 raw → 3 stabilized | IDs: T16[459,603] T1[184,344] T15[340,333] 
+09:53:18.601 FACE_ 209399       ▶ onFacesUpdatedWithStabilization Processing 3 faces...
+09:53:18.603 FACE_ 209399          cropFaceFromBitmap
+09:53:18.673 FACE_ 209348       ▶ analyze
+09:53:18.677 FACE_ 209399          faceRecognizer.getFaceEmbedding
+09:53:18.717 FACE_ 209399          recognitionService.recognizeFace
+09:53:18.717 FACE_ 209399          PHASE 4 recognition voting
+09:53:18.717 FACE_ 209399          TrackID 16: found: гирл, score = 0.69559854, SLR = 0.69559854/ no 2nd → гирл (69%) ? (votes: 2)
+09:53:18.718 DRAW_ 209399          setInterpolationTarget: From [475.5,618.75] to [459.0,602.625]
+09:53:18.718 FACE_ 209399          cropFaceFromBitmap
+09:53:18.738 FACE_ 209348       ◀ analyze
+09:53:18.793 FACE_ 209399          faceRecognizer.getFaceEmbedding
+09:53:18.834 FACE_ 209399          recognitionService.recognizeFace
+09:53:18.834 FACE_ 209399          PHASE 4 recognition voting
+09:53:18.835 FACE_ 209399          TrackID 1: found: алекс, score = 0.7681022, SLR = 0.7681022/ no 2nd → алекс (80%) ✓ (votes: 4)
+09:53:18.835 DRAW_ 209399          setInterpolationTarget: From [204.95142,352.10352] to [183.6151,344.078]
+09:53:18.836 FACE_ 209399          cropFaceFromBitmap
+09:53:18.841 FACE_ 2            ▶ matchFaces
+09:53:18.841 FACE_ 2               PRE-MATCH Track 16 at [459.0,602.6] MLKitID=38
+09:53:18.841 FACE_ 2               PRE-MATCH Track 1 at [183.6,344.1] MLKitID=35
+09:53:18.842 FACE_ 2               PRE-MATCH Track 15 at [340.5,333.0] MLKitID=36
+09:53:18.842 FACE_ 2               PRE-MATCH NewFace 0 at [159.5,337.0] MLKitID=35
+09:53:18.842 FACE_ 2               PRE-MATCH NewFace 1 at [315.5,326.0] MLKitID=36
+09:53:18.842 FACE_ 2               MATCH Track 1 → NewFace 0 distance=25.1 (TrackMLKit=35, FaceMLKit=35)
+09:53:18.842 FACE_ 2               MATCH Track 15 → NewFace 1 distance=25.9 (TrackMLKit=36, FaceMLKit=36)
+09:53:18.842 FACE_ 2            ◀ matchFaces (0 ms
+09:53:18.843 FACE_ 2            PHASE3: 2 raw → 3 stabilized | IDs: T16[459,603] T1[176,342] T15[333,331] 
+09:53:18.874 FACE_ 209348       ▶ analyze
+09:53:18.912 FACE_ 209399          faceRecognizer.getFaceEmbedding
+09:53:18.937 FACE_ 209348       ◀ analyze
+09:53:18.943 FACE_ 209399          recognitionService.recognizeFace
+09:53:18.943 FACE_ 209399          PHASE 4 recognition voting
+09:53:18.943 FACE_ 209399          TrackID 15: not found → Unknown (0%) ? (votes: 2)
+09:53:18.943 DRAW_ 209399          setInterpolationTarget: From [364.11508,343.60757] to [340.46167,333.01093]
+09:53:18.944 FACE_ 209399       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:19.019 FACE_ 2            ▶ matchFaces
+09:53:19.019 FACE_ 2               PRE-MATCH Track 16 at [459.0,602.6] MLKitID=38
+09:53:19.019 FACE_ 2               PRE-MATCH Track 1 at [176.4,342.0] MLKitID=35
+09:53:19.019 FACE_ 2               PRE-MATCH Track 15 at [333.0,330.9] MLKitID=36
+09:53:19.019 FACE_ 2               PRE-MATCH NewFace 0 at [152.0,335.0] MLKitID=35
+09:53:19.020 FACE_ 2               PRE-MATCH NewFace 1 at [307.5,324.0] MLKitID=36
+09:53:19.020 FACE_ 2               MATCH Track 1 → NewFace 0 distance=25.4 (TrackMLKit=35, FaceMLKit=35)
+09:53:19.021 FACE_ 2               MATCH Track 15 → NewFace 1 distance=26.4 (TrackMLKit=36, FaceMLKit=36)
+09:53:19.021 FACE_ 2            ◀ matchFaces (1 ms
+09:53:19.021 FACE_ 2            PHASE3: 2 raw → 3 stabilized | IDs: T16[459,603] T1[169,340] T15[325,329] 
+09:53:19.024 FACE_ 209400       ▶ onFacesUpdatedWithStabilization Processing 3 faces...
+09:53:19.026 FACE_ 209400          cropFaceFromBitmap
+09:53:19.100 FACE_ 209400          faceRecognizer.getFaceEmbedding
+09:53:19.106 FACE_ 209348       ▶ analyze
+09:53:19.139 FACE_ 209400          recognitionService.recognizeFace
+09:53:19.139 FACE_ 209400          PHASE 4 recognition voting
+09:53:19.139 FACE_ 209400          TrackID 16: found: гирл, score = 0.6632553, SLR = 0.6632553/ no 2nd → гирл (67%) ✓ (votes: 3)
+09:53:19.139 DRAW_ 209400          setInterpolationTarget: From [459.0159,602.6405] to [459.0,602.625]
+09:53:19.140 FACE_ 209400          cropFaceFromBitmap
+09:53:19.157 FACE_ 209348       ◀ analyze
+09:53:19.215 FACE_ 209400          faceRecognizer.getFaceEmbedding
+09:53:19.255 FACE_ 209400          recognitionService.recognizeFace
+09:53:19.255 FACE_ 209400          PHASE 4 recognition voting
+09:53:19.255 FACE_ 209400          TrackID 1: found: алекс, score = 0.74877536, SLR = 0.74877536/ no 2nd → алекс (79%) ✓ (votes: 5)
+09:53:19.256 DRAW_ 209400          setInterpolationTarget: From [183.63794,344.0866] to [169.06639,339.86823]
+09:53:19.257 FACE_ 209400          cropFaceFromBitmap
+09:53:19.258 FACE_ 2            ▶ matchFaces
+09:53:19.258 FACE_ 2               PRE-MATCH Track 16 at [459.0,602.6] MLKitID=38
+09:53:19.258 FACE_ 2               PRE-MATCH Track 1 at [169.1,339.9] MLKitID=35
+09:53:19.258 FACE_ 2               PRE-MATCH Track 15 at [325.3,328.8] MLKitID=36
+09:53:19.258 FACE_ 2               PRE-MATCH NewFace 0 at [136.5,332.5] MLKitID=35
+09:53:19.259 FACE_ 2               PRE-MATCH NewFace 1 at [289.5,321.5] MLKitID=36
+09:53:19.260 FACE_ 2               MATCH Track 1 → NewFace 0 distance=33.4 (TrackMLKit=35, FaceMLKit=35)
+09:53:19.260 FACE_ 2               MATCH Track 15 → NewFace 1 distance=36.6 (TrackMLKit=36, FaceMLKit=36)
+09:53:19.260 FACE_ 2            ◀ matchFaces (1 ms
+09:53:19.262 FACE_ 2            PHASE3: 2 raw → 3 stabilized | IDs: T16[459,603] T1[159,338] T15[315,327] 
+09:53:19.310 FACE_ 209348       ▶ analyze
+09:53:19.330 FACE_ 209400          faceRecognizer.getFaceEmbedding
+09:53:19.360 FACE_ 209400          recognitionService.recognizeFace
+09:53:19.360 FACE_ 209400          PHASE 4 recognition voting
+09:53:19.360 FACE_ 209400          TrackID 15: not found → Unknown (0%) ? (votes: 2)
+09:53:19.361 DRAW_ 209400          setInterpolationTarget: From [340.49896,333.02765] to [325.33124,328.83533]
+09:53:19.361 FACE_ 209400       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:19.374 FACE_ 209348       ◀ analyze
+09:53:19.473 FACE_ 2            ▶ matchFaces
+09:53:19.474 FACE_ 2               PRE-MATCH Track 16 at [459.0,602.6] MLKitID=38
+09:53:19.474 FACE_ 2               PRE-MATCH Track 1 at [159.3,337.7] MLKitID=35
+09:53:19.474 FACE_ 2               PRE-MATCH Track 15 at [314.6,326.6] MLKitID=36
+09:53:19.474 FACE_ 2               PRE-MATCH NewFace 0 at [136.5,333.0] MLKitID=35
+09:53:19.474 FACE_ 2               PRE-MATCH NewFace 1 at [290.5,324.5] MLKitID=36
+09:53:19.475 FACE_ 2               MATCH Track 1 → NewFace 0 distance=23.3 (TrackMLKit=35, FaceMLKit=35)
+09:53:19.476 FACE_ 2               MATCH Track 15 → NewFace 1 distance=24.2 (TrackMLKit=36, FaceMLKit=36)
+09:53:19.476 FACE_ 2            ◀ matchFaces (2 ms
+09:53:19.477 FACE_ 2            PHASE3: 2 raw → 3 stabilized | IDs: T16[459,603] T1[152,336] T15[307,326] 
+09:53:19.481 FACE_ 209401       ▶ onFacesUpdatedWithStabilization Processing 3 faces...
+09:53:19.483 FACE_ 209401          cropFaceFromBitmap
+09:53:19.515 FACE_ 209348       ▶ analyze
+09:53:19.559 FACE_ 209401          faceRecognizer.getFaceEmbedding
+09:53:19.575 FACE_ 209348       ◀ analyze
+09:53:19.599 FACE_ 209401          recognitionService.recognizeFace
+09:53:19.599 FACE_ 209401          PHASE 4 recognition voting
+09:53:19.599 FACE_ 209401          TrackID 16: found: гирл, score = 0.76201355, SLR = 0.76201355/ no 2nd → гирл (69%) ✓ (votes: 4)
+09:53:19.599 DRAW_ 209401          setInterpolationTarget: From [459.0,602.625] to [459.0,602.625]
+09:53:19.600 FACE_ 209401          cropFaceFromBitmap
+09:53:19.658 FACE_ 2            ▶ matchFaces
+09:53:19.658 FACE_ 2               PRE-MATCH Track 16 at [459.0,602.6] MLKitID=38
+09:53:19.659 FACE_ 2               PRE-MATCH Track 1 at [152.5,336.3] MLKitID=35
+09:53:19.659 FACE_ 2               PRE-MATCH Track 15 at [307.4,326.0] MLKitID=36
+09:53:19.659 FACE_ 2               PRE-MATCH NewFace 0 at [142.0,331.5] MLKitID=35
+09:53:19.659 FACE_ 2               PRE-MATCH NewFace 1 at [296.0,323.5] MLKitID=36
+09:53:19.660 FACE_ 2               MATCH Track 1 → NewFace 0 distance=11.5 (TrackMLKit=35, FaceMLKit=35)
+09:53:19.661 FACE_ 2               MATCH Track 15 → NewFace 1 distance=11.6 (TrackMLKit=36, FaceMLKit=36)
+09:53:19.661 FACE_ 2            ◀ matchFaces (2 ms
+09:53:19.662 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[149,335] T15[304,325] 
+09:53:19.676 FACE_ 209401          faceRecognizer.getFaceEmbedding
+09:53:19.713 FACE_ 209401          recognitionService.recognizeFace
+09:53:19.713 FACE_ 209401          PHASE 4 recognition voting
+09:53:19.713 FACE_ 209401          TrackID 1: found: алекс, score = 0.8362612, SLR = 0.8362612/ no 2nd → алекс (80%) ✓ (votes: 6)
+09:53:19.713 DRAW_ 209401          setInterpolationTarget: From [169.06639,339.86823] to [152.45752,336.26044]
+09:53:19.714 FACE_ 209401          cropFaceFromBitmap
+09:53:19.725 FACE_ 209348       ▶ analyze
+09:53:19.768 FACE_ 209348       ◀ analyze
+09:53:19.789 FACE_ 209401          faceRecognizer.getFaceEmbedding
+09:53:19.826 FACE_ 209401          recognitionService.recognizeFace
+09:53:19.827 FACE_ 209401          PHASE 4 recognition voting
+09:53:19.827 FACE_ 209401          TrackID 15: found: мике, score = 0.5817942, SLR = 0.5817942/ no 2nd → мике (57%) ✓ (votes: 3)
+09:53:19.827 DRAW_ 209401          setInterpolationTarget: From [325.33124,328.83533] to [307.3573,325.99432]
+09:53:19.828 FACE_ 209401       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:19.875 FACE_ 2            ▶ matchFaces
+09:53:19.876 FACE_ 2               PRE-MATCH Track 1 at [149.3,334.8] MLKitID=35
+09:53:19.876 FACE_ 2               PRE-MATCH Track 15 at [304.0,325.2] MLKitID=36
+09:53:19.876 FACE_ 2               PRE-MATCH NewFace 0 at [143.5,334.0] MLKitID=35
+09:53:19.876 FACE_ 2               PRE-MATCH NewFace 1 at [296.0,325.0] MLKitID=36
+09:53:19.877 FACE_ 2               MATCH Track 1 → NewFace 0 distance=5.9 (TrackMLKit=35, FaceMLKit=35)
+09:53:19.877 FACE_ 2               MATCH Track 15 → NewFace 1 distance=8.0 (TrackMLKit=36, FaceMLKit=36)
+09:53:19.877 FACE_ 2            ◀ matchFaces (1 ms
+09:53:19.878 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[148,335] T15[302,325] 
+09:53:19.881 FACE_ 209402       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:19.883 FACE_ 209402          cropFaceFromBitmap
+09:53:19.959 FACE_ 209348       ▶ analyze
+09:53:19.962 FACE_ 209402          faceRecognizer.getFaceEmbedding
+09:53:20.007 FACE_ 209348       ◀ analyze
+09:53:20.013 FACE_ 209402          recognitionService.recognizeFace
+09:53:20.013 FACE_ 209402          PHASE 4 recognition voting
+09:53:20.014 FACE_ 209402          TrackID 1: found: алекс, score = 0.8126227, SLR = 0.8126227/ no 2nd → алекс (80%) ✓ (votes: 7)
+09:53:20.014 DRAW_ 209402          setInterpolationTarget: From [154.86922,336.7843] to [147.57419,334.5826]
+09:53:20.015 FACE_ 209402          cropFaceFromBitmap
+09:53:20.076 FACE_ 2            ▶ matchFaces
+09:53:20.077 FACE_ 2               PRE-MATCH Track 1 at [147.6,334.6] MLKitID=35
+09:53:20.077 FACE_ 2               PRE-MATCH Track 15 at [301.6,325.2] MLKitID=36
+09:53:20.077 FACE_ 2               PRE-MATCH NewFace 0 at [145.0,332.0] MLKitID=35
+09:53:20.077 FACE_ 2               PRE-MATCH NewFace 1 at [298.0,323.0] MLKitID=36
+09:53:20.078 FACE_ 2               MATCH Track 1 → NewFace 0 distance=3.6 (TrackMLKit=35, FaceMLKit=35)
+09:53:20.078 FACE_ 2               MATCH Track 15 → NewFace 1 distance=4.2 (TrackMLKit=36, FaceMLKit=36)
+09:53:20.079 FACE_ 2            ◀ matchFaces (1 ms
+09:53:20.080 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[147,334] T15[300,325] 
+09:53:20.091 FACE_ 209402          faceRecognizer.getFaceEmbedding
+09:53:20.116 FACE_ 209402          recognitionService.recognizeFace
+09:53:20.116 FACE_ 209402          PHASE 4 recognition voting
+09:53:20.116 FACE_ 209402          TrackID 15: not found → мике (57%) ✓ (votes: 3)
+09:53:20.116 DRAW_ 209402          setInterpolationTarget: From [310.64993,326.51477] to [301.56506,325.1722]
+09:53:20.117 FACE_ 209402       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:20.124 FACE_ 2            Removing track 16 (not seen this frame)
+09:53:20.159 FACE_ 209348       ▶ analyze
+09:53:20.246 FACE_ 209348       ◀ analyze
+09:53:20.310 FACE_ 2            ▶ matchFaces
+09:53:20.310 FACE_ 2               PRE-MATCH Track 1 at [146.8,333.8] MLKitID=35
+09:53:20.310 FACE_ 2               PRE-MATCH Track 15 at [300.5,324.5] MLKitID=36
+09:53:20.311 FACE_ 2               PRE-MATCH NewFace 0 at [150.5,329.5] MLKitID=35
+09:53:20.311 FACE_ 2               PRE-MATCH NewFace 1 at [288.5,321.5] MLKitID=36
+09:53:20.312 FACE_ 2               MATCH Track 1 → NewFace 0 distance=5.7 (TrackMLKit=35, FaceMLKit=35)
+09:53:20.312 FACE_ 2               MATCH Track 15 → NewFace 1 distance=12.4 (TrackMLKit=36, FaceMLKit=36)
+09:53:20.312 FACE_ 2            ◀ matchFaces (1 ms
+09:53:20.313 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[148,333] T15[297,324] 
+09:53:20.317 FACE_ 209403       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:20.319 FACE_ 209403          cropFaceFromBitmap
+09:53:20.361 FACE_ 209348       ▶ analyze
+09:53:20.393 FACE_ 209403          faceRecognizer.getFaceEmbedding
+09:53:20.417 FACE_ 209348       ◀ analyze
+09:53:20.419 FACE_ 209403          recognitionService.recognizeFace
+09:53:20.419 FACE_ 209403          PHASE 4 recognition voting
+09:53:20.420 FACE_ 209403          TrackID 1: not found → алекс (80%) ✓ (votes: 7)
+09:53:20.420 DRAW_ 209403          setInterpolationTarget: From [147.60147,334.59082] to [147.91135,332.5155]
+09:53:20.421 FACE_ 209403          cropFaceFromBitmap
+09:53:20.495 FACE_ 209403          faceRecognizer.getFaceEmbedding
+09:53:20.510 FACE_ 2            ▶ matchFaces
+09:53:20.511 FACE_ 2               PRE-MATCH Track 1 at [147.9,332.5] MLKitID=35
+09:53:20.511 FACE_ 2               PRE-MATCH Track 15 at [296.9,323.6] MLKitID=36
+09:53:20.511 FACE_ 2               PRE-MATCH NewFace 0 at [272.0,336.5] MLKitID=36
+09:53:20.511 FACE_ 2               PRE-MATCH NewFace 1 at [121.5,344.5] MLKitID=39
+09:53:20.512 FACE_ 2               MATCH Track 1 → NewFace 1 distance=29.0 (TrackMLKit=35, FaceMLKit=39)
+09:53:20.512 FACE_ 2               MATCH Track 15 → NewFace 0 distance=28.0 (TrackMLKit=36, FaceMLKit=36)
+09:53:20.512 FACE_ 2            ◀ matchFaces (1 ms
+09:53:20.513 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[140,336] T15[289,327] 
+09:53:20.523 FACE_ 209403          recognitionService.recognizeFace
+09:53:20.523 FACE_ 209403          PHASE 4 recognition voting
+09:53:20.523 FACE_ 209403          TrackID 15: not found → мике (57%) ✓ (votes: 3)
+09:53:20.523 DRAW_ 209403          setInterpolationTarget: From [301.59677,325.17688] to [296.89688,323.61438]
+09:53:20.524 FACE_ 209403       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:20.594 FACE_ 209348       ▶ analyze
+09:53:20.656 FACE_ 209348       ◀ analyze
+09:53:20.756 FACE_ 2            ▶ matchFaces
+09:53:20.756 FACE_ 2               PRE-MATCH Track 1 at [140.0,336.1] MLKitID=39
+09:53:20.757 FACE_ 2               PRE-MATCH Track 15 at [289.4,327.5] MLKitID=36
+09:53:20.757 FACE_ 2               PRE-MATCH NewFace 0 at [260.5,337.0] MLKitID=36
+09:53:20.757 FACE_ 2               PRE-MATCH NewFace 1 at [114.0,350.5] MLKitID=39
+09:53:20.758 FACE_ 2               MATCH Track 1 → NewFace 1 distance=29.7 (TrackMLKit=39, FaceMLKit=39)
+09:53:20.758 FACE_ 2               MATCH Track 15 → NewFace 0 distance=30.5 (TrackMLKit=36, FaceMLKit=36)
+09:53:20.758 FACE_ 2            ◀ matchFaces (1 ms
+09:53:20.759 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[132,340] T15[281,330] 
+09:53:20.764 FACE_ 209404       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:20.765 FACE_ 209404          cropFaceFromBitmap
+09:53:20.795 FACE_ 209348       ▶ analyze
+09:53:20.842 FACE_ 209404          faceRecognizer.getFaceEmbedding
+09:53:20.876 FACE_ 209404          recognitionService.recognizeFace
+09:53:20.876 FACE_ 209404          PHASE 4 recognition voting
+09:53:20.876 FACE_ 209404          TrackID 1: found: алекс, score = 0.75749063, SLR = 0.75749063/ no 2nd → алекс (79%) ✓ (votes: 8)
+09:53:20.877 DRAW_ 209404          setInterpolationTarget: From [147.91135,332.5155] to [132.19156,340.4276]
+09:53:20.877 FACE_ 209404          cropFaceFromBitmap
+09:53:20.880 FACE_ 209348       ◀ analyze
+09:53:20.952 FACE_ 209404          faceRecognizer.getFaceEmbedding
+09:53:20.977 FACE_ 209404          recognitionService.recognizeFace
+09:53:20.977 FACE_ 209404          PHASE 4 recognition voting
+09:53:20.978 FACE_ 2            ▶ matchFaces
+09:53:20.978 FACE_ 209404          TrackID 15: not found → мике (57%) ✓ (votes: 3)
+09:53:20.978 FACE_ 2               PRE-MATCH Track 1 at [132.2,340.4] MLKitID=39
+09:53:20.978 DRAW_ 209404          setInterpolationTarget: From [296.89688,323.61438] to [280.74948,330.33606]
+09:53:20.978 FACE_ 2               PRE-MATCH Track 15 at [280.7,330.3] MLKitID=36
+09:53:20.978 FACE_ 2               PRE-MATCH NewFace 0 at [251.5,351.0] MLKitID=36
+09:53:20.978 FACE_ 2               PRE-MATCH NewFace 1 at [108.0,359.0] MLKitID=39
+09:53:20.979 FACE_ 209404       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:20.979 FACE_ 2               MATCH Track 1 → NewFace 1 distance=30.5 (TrackMLKit=39, FaceMLKit=39)
+09:53:20.979 FACE_ 2               MATCH Track 15 → NewFace 0 distance=35.8 (TrackMLKit=36, FaceMLKit=36)
+09:53:20.979 FACE_ 2            ◀ matchFaces (1 ms
+09:53:20.980 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[125,346] T15[272,337] 
+09:53:20.985 FACE_ 209405       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:20.987 FACE_ 209405          cropFaceFromBitmap
+09:53:21.005 FACE_ 2            Removing track 1 (not seen this frame)
+09:53:21.005 FACE_ 2            Removing track 15 (not seen this frame)
+09:53:21.013 FACE_ 209348       ▶ analyze
+09:53:21.057 FACE_ 209348       ◀ analyze
+09:53:21.073 FACE_ 209405          faceRecognizer.getFaceEmbedding
+09:53:21.106 FACE_ 209405          recognitionService.recognizeFace
+09:53:21.106 FACE_ 209405          PHASE 4 recognition voting
+09:53:21.106 FACE_ 209405          TrackID 1: found: алекс, score = 0.8071666, SLR = 0.8071666/ no 2nd → алекс (79%) ✓ (votes: 9)
+09:53:21.107 DRAW_ 209405          setInterpolationTarget: From [124.9341,345.99933] to [124.9341,345.99933]
+09:53:21.108 FACE_ 209405          cropFaceFromBitmap
+09:53:21.135 FACE_ 2            ▶ matchFaces
+09:53:21.135 FACE_ 2               PRE-MATCH Track 1 at [124.9,346.0] MLKitID=39
+09:53:21.135 FACE_ 2               PRE-MATCH Track 15 at [272.0,336.5] MLKitID=36
+09:53:21.135 FACE_ 2               PRE-MATCH NewFace 0 at [236.0,349.0] MLKitID=36
+09:53:21.135 FACE_ 2               PRE-MATCH NewFace 1 at [99.0,363.0] MLKitID=39
+09:53:21.135 FACE_ 2               MATCH Track 1 → NewFace 1 distance=31.0 (TrackMLKit=39, FaceMLKit=39)
+09:53:21.136 FACE_ 2               MATCH Track 15 → NewFace 0 distance=38.1 (TrackMLKit=36, FaceMLKit=36)
+09:53:21.136 FACE_ 2            ◀ matchFaces (1 ms
+09:53:21.136 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[117,351] T15[261,340] 
+09:53:21.181 FACE_ 209405          faceRecognizer.getFaceEmbedding
+09:53:21.205 FACE_ 209405          recognitionService.recognizeFace
+09:53:21.206 FACE_ 209405          PHASE 4 recognition voting
+09:53:21.206 FACE_ 209405          TrackID 15: not found → мике (57%) ✓ (votes: 3)
+09:53:21.206 DRAW_ 209405          setInterpolationTarget: From [271.9746,336.53522] to [271.9746,336.53522]
+09:53:21.207 FACE_ 209405       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:21.239 FACE_ 209348       ▶ analyze
+09:53:21.280 FACE_ 209348       ◀ analyze
+09:53:21.350 FACE_ 2            ▶ matchFaces
+09:53:21.351 FACE_ 2               PRE-MATCH Track 1 at [117.2,351.1] MLKitID=39
+09:53:21.351 FACE_ 2               PRE-MATCH Track 15 at [261.2,340.3] MLKitID=36
+09:53:21.351 FACE_ 2               PRE-MATCH NewFace 0 at [243.0,359.0] MLKitID=36
+09:53:21.351 FACE_ 2               PRE-MATCH NewFace 1 at [102.5,366.5] MLKitID=39
+09:53:21.352 FACE_ 2               MATCH Track 1 → NewFace 1 distance=21.3 (TrackMLKit=39, FaceMLKit=39)
+09:53:21.352 FACE_ 2               MATCH Track 15 → NewFace 0 distance=26.1 (TrackMLKit=36, FaceMLKit=36)
+09:53:21.353 FACE_ 2            ◀ matchFaces (1 ms
+09:53:21.354 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[113,356] T15[256,346] 
+09:53:21.358 FACE_ 209406       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:21.360 FACE_ 209406          cropFaceFromBitmap
+09:53:21.441 FACE_ 209406          faceRecognizer.getFaceEmbedding
+09:53:21.441 FACE_ 209348       ▶ analyze
+09:53:21.473 FACE_ 209406          recognitionService.recognizeFace
+09:53:21.473 FACE_ 209406          PHASE 4 recognition voting
+09:53:21.473 FACE_ 209406          TrackID 1: found: алекс, score = 0.80876726, SLR = 0.80876726/ no 2nd → алекс (80%) ✓ (votes: 10)
+09:53:21.474 DRAW_ 209406          setInterpolationTarget: From [124.9341,345.99933] to [112.757706,355.71967]
+09:53:21.475 FACE_ 209406          cropFaceFromBitmap
+09:53:21.486 FACE_ 209348       ◀ analyze
+09:53:21.552 FACE_ 209406          faceRecognizer.getFaceEmbedding
+09:53:21.574 FACE_ 209406          recognitionService.recognizeFace
+09:53:21.575 FACE_ 209406          PHASE 4 recognition voting
+09:53:21.575 FACE_ 209406          TrackID 15: not found → мике (57%) ✓ (votes: 3)
+09:53:21.575 DRAW_ 209406          setInterpolationTarget: From [271.9746,336.53522] to [255.72757,345.89227]
+09:53:21.575 FACE_ 209406       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:21.589 FACE_ 2            ▶ matchFaces
+09:53:21.590 FACE_ 2               PRE-MATCH Track 1 at [112.8,355.7] MLKitID=39
+09:53:21.590 FACE_ 2               PRE-MATCH Track 15 at [255.7,345.9] MLKitID=36
+09:53:21.590 FACE_ 2               PRE-MATCH NewFace 0 at [255.0,358.0] MLKitID=36
+09:53:21.590 FACE_ 2               PRE-MATCH NewFace 1 at [118.0,368.0] MLKitID=39
+09:53:21.590 FACE_ 2               MATCH Track 1 → NewFace 1 distance=13.4 (TrackMLKit=39, FaceMLKit=39)
+09:53:21.590 FACE_ 2               MATCH Track 15 → NewFace 0 distance=12.1 (TrackMLKit=36, FaceMLKit=36)
+09:53:21.590 FACE_ 2            ◀ matchFaces (0 ms
+09:53:21.591 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[114,359] T15[256,350] 
+09:53:21.593 FACE_ 209407       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:21.595 FACE_ 209407          cropFaceFromBitmap
+09:53:21.641 FACE_ 209348       ▶ analyze
+09:53:21.671 FACE_ 209407          faceRecognizer.getFaceEmbedding
+09:53:21.681 FACE_ 209348       ◀ analyze
+09:53:21.707 FACE_ 209407          recognitionService.recognizeFace
+09:53:21.707 FACE_ 209407          PHASE 4 recognition voting
+09:53:21.707 FACE_ 209407          TrackID 1: found: алекс, score = 0.7223981, SLR = 0.7223981/ no 2nd → алекс (79%) ✓ (votes: 11)
+09:53:21.708 DRAW_ 209407          setInterpolationTarget: From [118.14415,351.41968] to [114.3304,359.40375]
+09:53:21.709 FACE_ 209407          cropFaceFromBitmap
+09:53:21.756 FACE_ 2            ▶ matchFaces
+09:53:21.756 FACE_ 2               PRE-MATCH Track 1 at [114.3,359.4] MLKitID=39
+09:53:21.756 FACE_ 2               PRE-MATCH Track 15 at [255.5,349.5] MLKitID=36
+09:53:21.756 FACE_ 2               PRE-MATCH NewFace 0 at [289.0,356.0] MLKitID=36
+09:53:21.756 FACE_ 2               PRE-MATCH NewFace 1 at [151.5,366.0] MLKitID=39
+09:53:21.757 FACE_ 2               MATCH Track 1 → NewFace 1 distance=37.8 (TrackMLKit=39, FaceMLKit=39)
+09:53:21.757 FACE_ 2               MATCH Track 15 → NewFace 0 distance=34.1 (TrackMLKit=36, FaceMLKit=36)
+09:53:21.757 FACE_ 2            ◀ matchFaces (1 ms
+09:53:21.757 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[125,361] T15[266,351] 
+09:53:21.783 FACE_ 209407          faceRecognizer.getFaceEmbedding
+09:53:21.813 FACE_ 209407          recognitionService.recognizeFace
+09:53:21.814 FACE_ 209407          PHASE 4 recognition voting
+09:53:21.814 FACE_ 209407          TrackID 15: found: мике, score = 0.5558954, SLR = 0.5558954/ no 2nd → мике (57%) ✓ (votes: 4)
+09:53:21.814 DRAW_ 209407          setInterpolationTarget: From [262.42712,342.03387] to [255.5093,349.5246]
+09:53:21.815 FACE_ 209407       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:21.848 FACE_ 209348       ▶ analyze
+09:53:21.895 FACE_ 209348       ◀ analyze
+09:53:21.983 FACE_ 2            ▶ matchFaces
+09:53:21.983 FACE_ 2               PRE-MATCH Track 1 at [125.5,361.4] MLKitID=39
+09:53:21.983 FACE_ 2               PRE-MATCH Track 15 at [265.6,351.5] MLKitID=36
+09:53:21.983 FACE_ 2               PRE-MATCH NewFace 0 at [178.0,369.0] MLKitID=39
+09:53:21.984 FACE_ 2               PRE-MATCH NewFace 1 at [325.0,359.0] MLKitID=40
+09:53:21.984 FACE_ 2               MATCH Track 1 → NewFace 0 distance=53.1 (TrackMLKit=39, FaceMLKit=39)
+09:53:21.984 FACE_ 2               MATCH Track 15 → NewFace 1 distance=59.9 (TrackMLKit=36, FaceMLKit=40)
+09:53:21.985 FACE_ 2            ◀ matchFaces (1 ms
+09:53:21.985 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[141,364] T15[283,354] 
+09:53:21.990 FACE_ 209408       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:21.992 FACE_ 209408          cropFaceFromBitmap
+09:53:22.074 FACE_ 209348       ▶ analyze
+09:53:22.076 FACE_ 209408          faceRecognizer.getFaceEmbedding
+09:53:22.105 FACE_ 209408          recognitionService.recognizeFace
+09:53:22.105 FACE_ 209408          PHASE 4 recognition voting
+09:53:22.106 FACE_ 209408          TrackID 1: found: алекс, score = 0.782161, SLR = 0.782161/ no 2nd → алекс (79%) ✓ (votes: 12)
+09:53:22.106 DRAW_ 209408          setInterpolationTarget: From [114.35394,359.3545] to [141.23691,363.66785]
+09:53:22.107 FACE_ 209408          cropFaceFromBitmap
+09:53:22.132 FACE_ 209348       ◀ analyze
+09:53:22.181 FACE_ 209408          faceRecognizer.getFaceEmbedding
+09:53:22.202 FACE_ 209408          recognitionService.recognizeFace
+09:53:22.202 FACE_ 209408          PHASE 4 recognition voting
+09:53:22.202 FACE_ 209408          TrackID 15: not found → мике (57%) ✓ (votes: 4)
+09:53:22.202 DRAW_ 209408          setInterpolationTarget: From [255.58167,349.44623] to [283.38956,353.72705]
+09:53:22.203 FACE_ 209408       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:22.231 FACE_ 2            ▶ matchFaces
+09:53:22.231 FACE_ 2               PRE-MATCH Track 1 at [141.2,363.7] MLKitID=39
+09:53:22.231 FACE_ 2               PRE-MATCH Track 15 at [283.4,353.7] MLKitID=40
+09:53:22.231 FACE_ 2               PRE-MATCH NewFace 0 at [188.5,357.5] MLKitID=39
+09:53:22.231 FACE_ 2               PRE-MATCH NewFace 1 at [338.0,343.0] MLKitID=40
+09:53:22.232 FACE_ 2               MATCH Track 1 → NewFace 0 distance=47.7 (TrackMLKit=39, FaceMLKit=39)
+09:53:22.232 FACE_ 2               MATCH Track 15 → NewFace 1 distance=55.7 (TrackMLKit=40, FaceMLKit=40)
+09:53:22.232 FACE_ 2            ◀ matchFaces (1 ms
+09:53:22.232 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[155,362] T15[300,351] 
+09:53:22.235 FACE_ 209409       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:22.237 FACE_ 209409          cropFaceFromBitmap
+09:53:22.275 FACE_ 209348       ▶ analyze
+09:53:22.316 FACE_ 209409          faceRecognizer.getFaceEmbedding
+09:53:22.324 FACE_ 209348       ◀ analyze
+09:53:22.347 FACE_ 209409          recognitionService.recognizeFace
+09:53:22.347 FACE_ 209409          PHASE 4 recognition voting
+09:53:22.347 FACE_ 209409          TrackID 1: found: алекс, score = 0.6717112, SLR = 0.6717112/ no 2nd → алекс (78%) ✓ (votes: 13)
+09:53:22.347 DRAW_ 209409          setInterpolationTarget: From [130.46385,361.9393] to [155.41583,361.81747]
+09:53:22.349 FACE_ 209409          cropFaceFromBitmap
+09:53:22.401 FACE_ 2            ▶ matchFaces
+09:53:22.401 FACE_ 2               PRE-MATCH Track 1 at [155.4,361.8] MLKitID=39
+09:53:22.402 FACE_ 2               PRE-MATCH Track 15 at [299.8,350.5] MLKitID=40
+09:53:22.402 FACE_ 2               PRE-MATCH NewFace 0 at [205.0,342.5] MLKitID=39
+09:53:22.402 FACE_ 2               PRE-MATCH NewFace 1 at [359.5,328.0] MLKitID=40
+09:53:22.403 FACE_ 2               MATCH Track 1 → NewFace 0 distance=53.2 (TrackMLKit=39, FaceMLKit=39)
+09:53:22.403 FACE_ 2               MATCH Track 15 → NewFace 1 distance=63.8 (TrackMLKit=40, FaceMLKit=40)
+09:53:22.403 FACE_ 2            ◀ matchFaces (1 ms
+09:53:22.404 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[170,356] T15[318,344] 
+09:53:22.423 FACE_ 209409          faceRecognizer.getFaceEmbedding
+09:53:22.445 FACE_ 209409          recognitionService.recognizeFace
+09:53:22.445 FACE_ 209409          PHASE 4 recognition voting
+09:53:22.446 FACE_ 209409          TrackID 15: not found → мике (57%) ✓ (votes: 4)
+09:53:22.446 DRAW_ 209409          setInterpolationTarget: From [272.71887,352.08438] to [299.7727,350.5089]
+09:53:22.446 FACE_ 209409       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:22.481 FACE_ 209348       ▶ analyze
+09:53:22.534 FACE_ 209348       ◀ analyze
+09:53:22.618 FACE_ 2            ▶ matchFaces
+09:53:22.618 FACE_ 2               PRE-MATCH Track 1 at [170.3,356.0] MLKitID=39
+09:53:22.618 FACE_ 2               PRE-MATCH Track 15 at [317.7,343.8] MLKitID=40
+09:53:22.618 FACE_ 2               PRE-MATCH NewFace 0 at [211.5,346.5] MLKitID=39
+09:53:22.619 FACE_ 2               PRE-MATCH NewFace 1 at [369.5,331.5] MLKitID=40
+09:53:22.619 FACE_ 2               MATCH Track 1 → NewFace 0 distance=42.3 (TrackMLKit=39, FaceMLKit=39)
+09:53:22.619 FACE_ 2               MATCH Track 15 → NewFace 1 distance=53.2 (TrackMLKit=40, FaceMLKit=40)
+09:53:22.619 FACE_ 2            ◀ matchFaces (0 ms
+09:53:22.619 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[183,353] T15[333,340] 
+09:53:22.622 FACE_ 209410       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:22.623 FACE_ 209410          cropFaceFromBitmap
+09:53:22.691 FACE_ 209348       ▶ analyze
+09:53:22.700 FACE_ 209410          faceRecognizer.getFaceEmbedding
+09:53:22.728 FACE_ 209348       ◀ analyze
+09:53:22.732 FACE_ 209410          recognitionService.recognizeFace
+09:53:22.732 FACE_ 209410          PHASE 4 recognition voting
+09:53:22.733 FACE_ 209410          TrackID 1: found: алекс, score = 0.75802, SLR = 0.75802/ no 2nd → алекс (78%) ✓ (votes: 14)
+09:53:22.733 DRAW_ 209410          setInterpolationTarget: From [155.1287,361.81888] to [182.65376,353.1656]
+09:53:22.734 FACE_ 209410          cropFaceFromBitmap
+09:53:22.794 FACE_ 2            ▶ matchFaces
+09:53:22.794 FACE_ 2               PRE-MATCH Track 1 at [182.7,353.2] MLKitID=39
+09:53:22.794 FACE_ 2               PRE-MATCH Track 15 at [333.2,340.1] MLKitID=40
+09:53:22.794 FACE_ 2               PRE-MATCH NewFace 0 at [215.0,349.5] MLKitID=39
+09:53:22.794 FACE_ 2               PRE-MATCH NewFace 1 at [373.5,334.0] MLKitID=40
+09:53:22.794 FACE_ 2               MATCH Track 1 → NewFace 0 distance=32.6 (TrackMLKit=39, FaceMLKit=39)
+09:53:22.795 FACE_ 2               MATCH Track 15 → NewFace 1 distance=40.7 (TrackMLKit=40, FaceMLKit=40)
+09:53:22.795 FACE_ 2            ◀ matchFaces (1 ms
+09:53:22.795 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[192,352] T15[345,338] 
+09:53:22.809 FACE_ 209410          faceRecognizer.getFaceEmbedding
+09:53:22.829 FACE_ 209410          recognitionService.recognizeFace
+09:53:22.830 FACE_ 209410          PHASE 4 recognition voting
+09:53:22.830 FACE_ 209410          TrackID 15: not found → мике (57%) ✓ (votes: 4)
+09:53:22.830 DRAW_ 209410          setInterpolationTarget: From [299.43127,350.5288] to [333.2336,340.07938]
+09:53:22.830 FACE_ 209410       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:22.891 FACE_ 209348       ▶ analyze
+09:53:22.922 FACE_ 209348       ◀ analyze
+09:53:23.008 FACE_ 2            ▶ matchFaces
+09:53:23.008 FACE_ 2               PRE-MATCH Track 1 at [192.4,352.1] MLKitID=39
+09:53:23.008 FACE_ 2               PRE-MATCH Track 15 at [345.3,338.3] MLKitID=40
+09:53:23.008 FACE_ 2               PRE-MATCH NewFace 0 at [221.0,351.0] MLKitID=39
+09:53:23.008 FACE_ 2               PRE-MATCH NewFace 1 at [382.5,335.5] MLKitID=40
+09:53:23.009 FACE_ 2               MATCH Track 1 → NewFace 0 distance=28.7 (TrackMLKit=39, FaceMLKit=39)
+09:53:23.009 FACE_ 2               MATCH Track 15 → NewFace 1 distance=37.3 (TrackMLKit=40, FaceMLKit=40)
+09:53:23.009 FACE_ 2            ◀ matchFaces (1 ms
+09:53:23.010 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[201,352] T15[356,337] 
+09:53:23.014 FACE_ 209411       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:23.016 FACE_ 209411          cropFaceFromBitmap
+09:53:23.092 FACE_ 209348       ▶ analyze
+09:53:23.096 FACE_ 209411          faceRecognizer.getFaceEmbedding
+09:53:23.131 FACE_ 209411          recognitionService.recognizeFace
+09:53:23.131 FACE_ 209411          PHASE 4 recognition voting
+09:53:23.131 FACE_ 209411          TrackID 1: found: алекс, score = 0.72850776, SLR = 0.72850776/ no 2nd → алекс (77%) ✓ (votes: 15)
+09:53:23.131 DRAW_ 209411          setInterpolationTarget: From [182.48389,353.219] to [200.95035,351.74612]
+09:53:23.133 FACE_ 209411          cropFaceFromBitmap
+09:53:23.166 FACE_ 209348       ◀ analyze
+09:53:23.209 FACE_ 209411          faceRecognizer.getFaceEmbedding
+09:53:23.229 FACE_ 209411          recognitionService.recognizeFace
+09:53:23.230 FACE_ 209411          PHASE 4 recognition voting
+09:53:23.230 FACE_ 209411          TrackID 15: not found → мике (57%) ✓ (votes: 4)
+09:53:23.230 DRAW_ 209411          setInterpolationTarget: From [333.04816,340.13672] to [356.46948,337.4289]
+09:53:23.231 FACE_ 209411       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:23.263 FACE_ 2            ▶ matchFaces
+09:53:23.263 FACE_ 2               PRE-MATCH Track 1 at [201.0,351.7] MLKitID=39
+09:53:23.263 FACE_ 2               PRE-MATCH Track 15 at [356.5,337.4] MLKitID=40
+09:53:23.263 FACE_ 2               PRE-MATCH NewFace 0 at [221.0,354.0] MLKitID=39
+09:53:23.263 FACE_ 2               PRE-MATCH NewFace 1 at [379.5,338.5] MLKitID=40
+09:53:23.264 FACE_ 2               MATCH Track 1 → NewFace 0 distance=20.2 (TrackMLKit=39, FaceMLKit=39)
+09:53:23.264 FACE_ 2               MATCH Track 15 → NewFace 1 distance=23.1 (TrackMLKit=40, FaceMLKit=40)
+09:53:23.264 FACE_ 2            ◀ matchFaces (1 ms
+09:53:23.264 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[207,352] T15[363,338] 
+09:53:23.267 FACE_ 209412       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:23.268 FACE_ 209412          cropFaceFromBitmap
+09:53:23.324 FACE_ 209348       ▶ analyze
+09:53:23.342 FACE_ 209412          faceRecognizer.getFaceEmbedding
+09:53:23.370 FACE_ 209412          recognitionService.recognizeFace
+09:53:23.370 FACE_ 209412          PHASE 4 recognition voting
+09:53:23.370 FACE_ 209412          TrackID 1: found: алекс, score = 0.8587859, SLR = 0.8587859/ no 2nd → алекс (78%) ✓ (votes: 16)
+09:53:23.371 DRAW_ 209412          setInterpolationTarget: From [193.33563,352.35345] to [206.96524,352.4223]
+09:53:23.373 FACE_ 209412          cropFaceFromBitmap
+09:53:23.390 FACE_ 209348       ◀ analyze
+09:53:23.447 FACE_ 209412          faceRecognizer.getFaceEmbedding
+09:53:23.462 FACE_ 2            ▶ matchFaces
+09:53:23.462 FACE_ 2               PRE-MATCH Track 1 at [207.0,352.4] MLKitID=39
+09:53:23.462 FACE_ 2               PRE-MATCH Track 15 at [363.4,337.8] MLKitID=40
+09:53:23.462 FACE_ 2               PRE-MATCH NewFace 0 at [218.0,362.0] MLKitID=39
+09:53:23.462 FACE_ 2               PRE-MATCH NewFace 1 at [375.5,349.5] MLKitID=40
+09:53:23.463 FACE_ 2               MATCH Track 1 → NewFace 0 distance=14.6 (TrackMLKit=39, FaceMLKit=39)
+09:53:23.463 FACE_ 2               MATCH Track 15 → NewFace 1 distance=16.9 (TrackMLKit=40, FaceMLKit=40)
+09:53:23.463 FACE_ 2            ◀ matchFaces (1 ms
+09:53:23.463 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[210,355] T15[367,341] 
+09:53:23.469 FACE_ 209412          recognitionService.recognizeFace
+09:53:23.469 FACE_ 209412          PHASE 4 recognition voting
+09:53:23.470 FACE_ 209412          TrackID 15: not found → мике (57%) ✓ (votes: 4)
+09:53:23.470 DRAW_ 209412          setInterpolationTarget: From [346.94824,338.52966] to [363.37863,337.75024]
+09:53:23.470 FACE_ 209412       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:23.556 FACE_ 209348       ▶ analyze
+09:53:23.620 FACE_ 209348       ◀ analyze
+09:53:23.702 FACE_ 2            ▶ matchFaces
+09:53:23.703 FACE_ 2               PRE-MATCH Track 1 at [210.3,355.3] MLKitID=39
+09:53:23.703 FACE_ 2               PRE-MATCH Track 15 at [367.0,341.3] MLKitID=40
+09:53:23.703 FACE_ 2               PRE-MATCH NewFace 0 at [370.5,388.5] MLKitID=40
+09:53:23.703 FACE_ 2               PRE-MATCH NewFace 1 at [222.0,399.5] MLKitID=41
+09:53:23.703 FACE_ 2               MATCH Track 1 → NewFace 1 distance=45.7 (TrackMLKit=39, FaceMLKit=41)
+09:53:23.703 FACE_ 2               MATCH Track 15 → NewFace 0 distance=47.4 (TrackMLKit=40, FaceMLKit=40)
+09:53:23.703 FACE_ 2            ◀ matchFaces (0 ms
+09:53:23.704 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[214,369] T15[368,355] 
+09:53:23.706 FACE_ 209413       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:23.707 FACE_ 209413          cropFaceFromBitmap
+09:53:23.763 FACE_ 209348       ▶ analyze
+09:53:23.783 FACE_ 209413          faceRecognizer.getFaceEmbedding
+09:53:23.805 FACE_ 209348       ◀ analyze
+09:53:23.826 FACE_ 209413          recognitionService.recognizeFace
+09:53:23.826 FACE_ 209413          PHASE 4 recognition voting
+09:53:23.826 FACE_ 209413          TrackID 1: found: алекс, score = 0.90144247, SLR = 0.90144247/ no 2nd → алекс (79%) ✓ (votes: 17)
+09:53:23.827 DRAW_ 209413          setInterpolationTarget: From [206.96524,352.4223] to [213.79297,368.5569]
+09:53:23.828 FACE_ 209413          cropFaceFromBitmap
+09:53:23.902 FACE_ 2            ▶ matchFaces
+09:53:23.902 FACE_ 209413          faceRecognizer.getFaceEmbedding
+09:53:23.902 FACE_ 2               PRE-MATCH Track 1 at [213.8,368.6] MLKitID=41
+09:53:23.902 FACE_ 2               PRE-MATCH Track 15 at [368.1,355.4] MLKitID=40
+09:53:23.902 FACE_ 2               PRE-MATCH NewFace 0 at [363.5,400.5] MLKitID=40
+09:53:23.902 FACE_ 2               PRE-MATCH NewFace 1 at [217.0,415.5] MLKitID=41
+09:53:23.903 FACE_ 2               MATCH Track 1 → NewFace 1 distance=47.1 (TrackMLKit=41, FaceMLKit=41)
+09:53:23.903 FACE_ 2               MATCH Track 15 → NewFace 0 distance=45.3 (TrackMLKit=40, FaceMLKit=40)
+09:53:23.903 FACE_ 2            ◀ matchFaces (1 ms
+09:53:23.904 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[215,383] T15[367,369] 
+09:53:23.931 FACE_ 209413          recognitionService.recognizeFace
+09:53:23.931 FACE_ 209413          PHASE 4 recognition voting
+09:53:23.931 FACE_ 209413          TrackID 15: found: мике, score = 0.5825998, SLR = 0.5825998/ no 2nd → мике (57%) ✓ (votes: 5)
+09:53:23.932 DRAW_ 209413          setInterpolationTarget: From [363.37863,337.75024] to [368.06055,355.44263]
+09:53:23.932 FACE_ 209413       ◀ onFacesUpdatedWithStabilization processing complete
+09:53:23.979 FACE_ 209348       ▶ analyze
+09:53:24.010 FACE_ 209348       ◀ analyze
+09:53:24.094 FACE_ 2            ▶ matchFaces
+09:53:24.094 FACE_ 2               PRE-MATCH Track 1 at [214.8,382.6] MLKitID=41
+09:53:24.095 FACE_ 2               PRE-MATCH Track 15 at [366.7,369.0] MLKitID=40
+09:53:24.095 FACE_ 2               PRE-MATCH NewFace 0 at [351.0,414.0] MLKitID=40
+09:53:24.095 FACE_ 2               PRE-MATCH NewFace 1 at [208.5,425.0] MLKitID=41
+09:53:24.095 FACE_ 2               MATCH Track 1 → NewFace 1 distance=42.8 (TrackMLKit=41, FaceMLKit=41)
+09:53:24.095 FACE_ 2               MATCH Track 15 → NewFace 0 distance=47.7 (TrackMLKit=40, FaceMLKit=40)
+09:53:24.096 FACE_ 2            ◀ matchFaces (1 ms
+09:53:24.096 FACE_ 2            PHASE3: 2 raw → 2 stabilized | IDs: T1[213,395] T15[362,382] 
+09:53:24.101 FACE_ 209414       ▶ onFacesUpdatedWithStabilization Processing 2 faces...
+09:53:24.102 FACE_ 209414          cropFaceFromBitmap
+09:53:24.179 FACE_ 209348       ▶ analyze
+09:53:24.183 FACE_ 209414          faceRecognizer.getFaceEmbedding
+09:53:24.210 FACE_ 209414          recognitionService.recognizeFace
+09:53:24.210 FACE_ 209414          PHASE 4 recognition voting
+09:53:24.210 FACE_ 209414          TrackID 1: found: алекс, score = 0.72217935, SLR = 0.72217935/ no 2nd → алекс (78%) ✓ (votes: 18)
+09:53:24.210 DRAW_ 209414          setInterpolationTarget: From [213.70282,368.34387] to [212.87856,395.3479]
+09:53:24.211 FACE_ 209414          cropFaceFromBitmap
+09:53:24.228 FACE_ 209348       ◀ analyze
+09:53:24.288 FACE_ 209414          faceRecognizer.getFaceEmbedding
+09:53:24.307 FACE_ 209414          recognitionService.recognizeFace
+09:53:24.307 FACE_ 209414          PHASE 4 recognition voting
+09:53:24.308 FACE_ 209414          TrackID 15: not found → мике (57%) ✓ (votes: 5)
+09:53:24.308 DRAW_ 209414          setInterpolationTarget: From [367.97723,355.12793] to [361.98468,382.4719]
